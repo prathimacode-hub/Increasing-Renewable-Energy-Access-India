@@ -4,7 +4,7 @@ st.set_page_config(page_title="Features")
 
 st.sidebar.header("Features")
 
-st.subheader("Features")
+st.subheader("Highlights")
 
 st.markdown("""
 ##### Feature Endorsements
