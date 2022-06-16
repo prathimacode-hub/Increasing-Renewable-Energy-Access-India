@@ -8,16 +8,14 @@ st.sidebar.header("About")
 st.subheader("About the project")
 
 st.markdown("""
-##### Goals of our project  
-*  
-*  
-*  
-*  
+##### Goals Of Our Project  
+* Finding Relevant or Extract Datasets, Explore and Analyze the Data gathered
+* Map of suitable locations for solar power projects taking into consideration of various factors 
+* Predicting Energy Output
 """)
 
-
 st.markdown("""
-##### Developments we made  
+##### Developments We Made  
 *  
 *  
 """)
