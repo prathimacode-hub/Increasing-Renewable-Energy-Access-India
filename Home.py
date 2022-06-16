@@ -26,7 +26,9 @@ st.header("Renewable Energy Access in India")
 
 #https://news.stanford.edu/2015/11/23/plan-energy-storage-112315/
     
-IMG_URL = 'https://etimg.etb2bimg.com/thumb/msid-79151507,width-700,resizemode-4/.jpg'
+#IMG_URL = 'https://etimg.etb2bimg.com/thumb/msid-79151507,width-700,resizemode-4/.jpg'
+
+IMG_URL = 'https://bsmedia.business-standard.com/_media/bs/img/article/2021-12/28/full/1640711472-4731.jpg?im=Resize,width=480'
 
 #IMG_URL = 'https://news.stanford.edu/news/2015/november/images/15891-plan_news.jpg/'
 
