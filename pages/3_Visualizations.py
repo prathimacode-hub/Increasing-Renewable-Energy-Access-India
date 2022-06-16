@@ -9,6 +9,10 @@ from streamlit_folium import folium_static
 
 PAGE_TITLE = "Visualizations"
 
-st.sidebar.header("Mapping Of Suitable Locations")
+st.sidebar.header("Solar Panel Mapping Locations")
 
-st.sidebar.header("Generalized Statistics Of Renewable Energy Access")
+st.subheader("Mapping Of Suitable Locations")
+
+st.sidebar.header("Know Our Renewable Energy Statistics")
+
+st.subheader("Generalized Statistics Of Renewable Energy Access")
