@@ -8,7 +8,7 @@ st.subheader('Collaborators')
 
 st.markdown("""
 [A](https://www.linkedin.com/in/)  
-[b](https://www.linkedin.com/in/)  
+[B](https://www.linkedin.com/in/)  
 [C](https://www.linkedin.com/in/)  
 [D](https://www.linkedin.com/in/)    
 """)
