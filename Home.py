@@ -24,7 +24,11 @@ st.header("Renewable Energy Access in India")
 #IMG_URL = 'https://media.istockphoto.com/photos/engineer-standing-in-solar-power' \
 #          '-station-looking-sunrise-picture-id1318137351?s=612x612/'
 
-IMG_URL = 'https://news.stanford.edu/news/2015/november/images/15891-plan_news.jpg/'
+#https://news.stanford.edu/2015/11/23/plan-energy-storage-112315/
+    
+IMG_URL = 'https://etimg.etb2bimg.com/thumb/msid-79151507,width-700,resizemode-4/.jpg'
+
+#IMG_URL = 'https://news.stanford.edu/news/2015/november/images/15891-plan_news.jpg/'
 
 response = requests.get(IMG_URL)
 img = Image.open(BytesIO(response.content))
