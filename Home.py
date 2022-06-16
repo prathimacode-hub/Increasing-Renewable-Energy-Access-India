@@ -16,7 +16,9 @@ st.set_page_config(
     layout="wide",
     initial_sidebar_state="expanded",
 )
-https://media.istockphoto.com/photos/engineer-standing-in-solar-power-station-looking-sunrise-picture-id1318137351?s=612x612
+
+#https://media.istockphoto.com/photos/engineer-standing-in-solar-power-station-looking-sunrise-picture-id1318137351?s=612x612
+
 st.header("Renewable Energy Access in India")
 
 #IMG_URL = 'https://media.istockphoto.com/photos/engineer-standing-in-solar-power' \
