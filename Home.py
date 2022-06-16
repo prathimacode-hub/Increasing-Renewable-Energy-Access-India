@@ -19,8 +19,10 @@ st.set_page_config(
 https://media.istockphoto.com/photos/engineer-standing-in-solar-power-station-looking-sunrise-picture-id1318137351?s=612x612
 st.header("Renewable Energy Access in India")
 
-IMG_URL = 'https://media.istockphoto.com/photos/engineer-standing-in-solar-power' \
-          '-station-looking-sunrise-picture-id1318137351?s=612x612/'
+#IMG_URL = 'https://media.istockphoto.com/photos/engineer-standing-in-solar-power' \
+#          '-station-looking-sunrise-picture-id1318137351?s=612x612/'
+
+IMG_URL = 'https://news.stanford.edu/news/2015/november/images/15891-plan_news.jpg/'
 
 response = requests.get(IMG_URL)
 img = Image.open(BytesIO(response.content))
