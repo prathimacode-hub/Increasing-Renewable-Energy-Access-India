@@ -38,5 +38,5 @@ with col1:
     hope to encourage citizen science by open sourcing the dataset and code.
     """)
 with col2:
-    st.image(img.resize((400, 600)))
+    st.image(img.resize((500, 500)))
     
