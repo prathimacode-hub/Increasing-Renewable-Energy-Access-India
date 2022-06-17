@@ -1,0 +1,392 @@
+id,month,voltage_ratio,station_name,capacity,executing_agency,sector
+27,Jan-2020,765/400,Chilakaluripeta S/S (PSITL - TBCB),3000,PGCIL,Central Sector
+28,Jan-2020,400/220,Repl. of 1x315 MVA ICT with 1x500 MVA ICT at Pusauli s/s (ICT-II),185,PGCIL,Central Sector
+29,Jan-2020,220/132,Dhanbad (Auto-Xmer) T/F-I,160,DVC,Central Sector
+30,Jan-2020,400/220,Ramadugu s/s,1000,TSTRANSCO,State Sector
+31,Jan-2020,230/110,Nimmeli Thippiakudi (Addl T/F),100,TANTRANSCO,State Sector
+32,Jan-2020,230/110,Thiruchuli (Addl T/F),50,TANTRANSCO,State Sector
+33,Jan-2020,220/132,Up-gradation of existing 132 kV Pandharkawda substation to 220 kV level,100,MSETCL,State Sector
+34,Jan-2020,220/132,Jaypatna T/F-II,160,OPTCL,State Sector
+35,Jan-2020,220/132,Banda (Aug) T/F-II (200-160),40,UPPTCL,State Sector
+36,Jan-2020,220/132,Deoria (Aug) T/F-II (160-100),60,UPPTCL,State Sector
+37,Jan-2020,220/132,Gonda (Aug) T/F-I (200-160),40,UPPTCL,State Sector
+38,Jan-2020,220/132,Hathras (Aug) T/F-II (200-160),40,UPPTCL,State Sector
+39,Jan-2020,220/132,Jhunsi Prayagraj (Aug) T/F-II (200-160),40,UPPTCL,State Sector
+40,Jan-2020,220/132,Kursi Road (Aug) (Additional T/F),160,UPPTCL,State Sector
+41,Jan-2020,220/132,Muradnagar-II (Aug) T/F-II,100,UPPTCL,State Sector
+42,Jan-2020,220/132,Pratap Vihar Ghaziabad (New) T/F-I,160,UPPTCL,State Sector
+43,Jan-2020,220/132,Rewa Road Prayagraj (Aug) T/F-II (200-160),40,UPPTCL,State Sector
+44,Jan-2020,220/132,Unnao (Aug) T/F-II (160-100),60,UPPTCL,State Sector
+45,Jan-2020,220/132/33,Karanja (1x25 MVA 220/33 kV T/F),25,MSETCL,State Sector
+46,Jan-2020,220/132/33,Narangwadi (100 MVA ICT-II and 25 MVA 220/33 kV T/F-III),150,MSETCL,State Sector
+47,Jan-2020,220/22,Chardava (Aug) (1x160 2x100) - (2x100),160,GETCO,State Sector
+48,Jan-2020,220/33,Uppalwadi (220/33 kV 50 MVA T/F),50,MSETCL,State Sector
+49,Jan-2020,220/66,Jamla (Aug) (1x160 2x100 1x50) - (2x100 1x50),160,GETCO,State Sector
+50,Jan-2020,220/66,Jetpur (Aug) (1x160 2x100) - (3x100),60,GETCO,State Sector
+51,Jan-2020,220/66,Morbi (Aug) (2x160 2x100) - (1x160 3x100),60,GETCO,State Sector
+52,Jan-2020,220/66,Motigop T/F-II,160,GETCO,State Sector
+53,Jan-2020,220/66,Otha (Aug) (1x160 2x100) - (2x100),160,GETCO,State Sector
+54,Jan-2020,220/66,Vadavi (Aug) (1x160 3x100) - (3x100),160,GETCO,State Sector
+55,Jan-2020,220/66,Vallabhipur (Aug) (1x160 2x100) - (2x100),160,GETCO,State Sector
+56,Jan-2020,220/66,Wangtoo (2x100 MVA T/F of 220/66 kV),200,HPPTCL,State Sector
+57,Jan-2020,220/132,Malanpur S/s (Addl. X-mer),160,MPPTCL,State Sector
+58,Jan-2020,220/132,Morena S/s (Addl. X-mer),160,MPPTCL,State Sector
+59,Jan-2020,220/132,Jaora S/s (Balance 2nd X-mer)),160,MPPTCL,State Sector
+60,Jan-2020,220/132,Satna S/s (Addl. X-mer),160,MPPTCL,State Sector
+61,Jan-2020,220/132,Georai S/S (ICT-II),100,MSETCL,State Sector
+12,Feb-2020,230/110,Guruparapally (Addl),100,TANTRANSCO,State Sector
+13,Feb-2020,230/110,Savasapuram (Addl),100,TANTRANSCO,State Sector
+14,Feb-2020,220/132,Alusteng S/S,320,JKPDD,State Sector
+15,Feb-2020,220/132,Sailana (2nd Unit),160,MPPTCL,State Sector
+16,Feb-2020,220/132,Sheopurkalan (1st unit),160,MPPTCL,State Sector
+17,Feb-2020,220/132,Bolangir S/S,160,OPTCL,State Sector
+18,Feb-2020,220/132,Azamgarh (Aug. T/F-I (200-160),40,UPPTCL,State Sector
+19,Feb-2020,220/132,Chhajpur (Addl.),100,HVPNL,State Sector
+20,Feb-2020,220/132,Gola Gorakhpur (New) T/F-II,160,UPPTCL,State Sector
+21,Feb-2020,220/132,Morti Ghaziabad (Aug.) T/F-II,160,UPPTCL,State Sector
+22,Feb-2020,220/33,Sector -85 Gurugram (2nd T/F),100,HVPNL,State Sector
+23,Feb-2020,220/33,Ashta (Addl T/F),50,MPPTCL,State Sector
+24,Feb-2020,220/66,Naganathapura (Aug.) (T/F-I),100,KPTCL,State Sector
+25,Feb-2020,220/132,Bahraich (Aug.) T/F,160,UPPTCL,State Sector
+26,Feb-2020,220/132,Mehna Khera S/s,100,HVPNL,State Sector
+1,Mar-2020,800,Champa and Kurukshetra HVDC Station (Pole- 4),1500,PGCIL,Central Sector
+2,Mar-2020,230/110,Tiruppur (JICA) (ICT-I),100,TANTRANSCO,State Sector
+3,Mar-2020,220/66,Chandrapura (Aug) (160-50),110,GETCO,State Sector
+4,Mar-2020,220/66,Mitha (Aug) (100-50),50,GETCO,State Sector
+5,Mar-2020,220/66,Sankhari (Aug) (100-50),50,GETCO,State Sector
+6,Mar-2020,220/132,Dhuvaran (Aug) (100-50),50,GETCO,State Sector
+7,Mar-2020,220/66,Vijapur (Aug) (1x160),160,GETCO,State Sector
+8,Mar-2020,220/66,Brindavan Alloys,300,KPTCL,State Sector
+9,Mar-2020,220/66,Timbdi(Aug) (100-50),50,GETCO,State Sector
+10,Mar-2020,220/66,Bhutiya (Aug) (3x100 - 2x100),100,GETCO,State Sector
+11,Mar-2020,765/400,Khandwa PS (KTL - TBCB),3000,SGL,Private Sector
+62,Apr-2020,765/400,Tehri PS (GIS) (3 ICTs),2400,PGCIL,Central Sector
+63,Apr-2020,220/132,Repl. of 1x50 MVA to 1x160 MVA at Balipara S/stn.(ICT-II),110,PGCIL,Central Sector
+64,Apr-2020,220/66,Sultanpur Lodhi (T/F),100,PSTCL,State Sector
+65,Apr-2020,400/220,Sohna Road (Gurgaon) (GIS) (GPTL - TBCB),1000,SGL,Private Sector
+66,May-2020,220/132,Ratangarh (GEC-I),160,MPPTCL,State Sector
+67,May-2020,220/132,Shahjahanpur (T/F-II),160,UPPTCL,State Sector
+68,May-2020,220/132/33,Goda S/S,320,OPTCL,State Sector
+69,May-2020,220/33,Gurugram Sector-95 (T/F-II),100,HVPNL,State Sector
+70,May-2020,220/66,Kudligi (Badeladaku) S/S,200,KPTCL,State Sector
+71,May-2020,220/66,Baja Khanna (Aug. of 100 MVA T/F with 160 MVA T/F),60,PSTCL,State Sector
+72,May-2020,220/66,Bangan (Addl. T/F),100,PSTCL,State Sector
+73,May-2020,220/66,Ferozepur road Ludhiana (Aug. of 100 MVA T/F with 160 MVA T/F),60,PSTCL,State Sector
+74,May-2020,220/66,Maur (Addl. T/F),100,PSTCL,State Sector
+75,Jun-2020,765/400,Extn at Meerut substation,1500,PGCIL,Central Sector
+76,Jun-2020,230/110,Tirupur (JICA),100,TANTRANSCO,State Sector
+77,Jun-2020,220/132,Barahua T/F-I (Aug.) (200-100),100,UPPTCL,State Sector
+78,Jun-2020,220/132,Noida Sector-148 T/F-II (Aug.),100,UPPTCL,State Sector
+79,Jun-2020,220/132,Pratap Vihar T/F (Aug.),100,UPPTCL,State Sector
+80,Jun-2020,220/22,Temghar Replacement T/F (50 MVA replaced by 80 MVA),30,MSETCL,State Sector
+81,Jun-2020,220/132,Upgration of Depalpur 132 Kv S/s 220kv with 1x160MVA,160,MPPTCL,State Sector
+82,Jun-2020,220/33,Nanauta T/F (Aug.),60,UPPTCL,State Sector
+83,Jun-2020,220/66,Sarita Vihar (Replacement) (160-100),60,DTL,State Sector
+84,Jun-2020,220/66,IMT Manesar Gurugram Sector -1,100,HVPNL,State Sector
+85,Jun-2020,220/33,Adampur,50,MPPTCL,State Sector
+86,Jun-2020,220/132,Bahraich T/F-II (Aug.),160,UPPTCL,State Sector
+87,Jul-2020,400/220,Extan. at Maithon,500,PGCIL,Central Sector
+88,Jul-2020,400/132,Gr. Noida G.B. Nagar (Additional T/F),200,UPPTCL,State Sector
+89,Jul-2020,230/110,Sankarapuram S/S,100,TANTRANSCO,State Sector
+90,Jul-2020,220/132,Maath (Aug) T/F-II,160,UPPTCL,State Sector
+91,Jul-2020,220/132,Madhuvan Bapudham (New) T/F-I,160,UPPTCL,State Sector
+92,Jul-2020,220/132,Sarsawa (Saharanpur) (ICT-II) S/S,160,UPPTCL,State Sector
+93,Jul-2020,220/132,Sultanpur (Aug) (Additional T/F),160,UPPTCL,State Sector
+94,Jul-2020,220/132/33,Joda S/S,160,OPTCL,State Sector
+95,Jul-2020,220/66,Barejdi S/s,160,GETCO,State Sector
+96,Jul-2020,220/66,Rupkheda (Zalod) S/s,160,GETCO,State Sector
+97,Jul-2020,220/66,Begur,200,KPTCL,State Sector
+98,Jul-2020,220/132,Rupkheda (Zalod),300,GETCO,State Sector
+99,Jul-2020,220/132,Upgradation of Chapda 132Kv S/s to 220kv with 1x160MVA,160,MPPTCL,State Sector
+100,Jul-2020,220/132,Manmad Sub-Station (Up-Gradation ),200,MSETCL,State Sector
+101,Jul-2020,400/220,New Kohima S/s (K-MTL-TBCB),1000,KPTL,Private Sector
+102,Aug-2020,230/110,Karamadai (3rd Auto T/F),100,TANTRANSCO,State Sector
+103,Aug-2020,220/132,Mehna Khera (T/F-II),100,HVPNL,State Sector
+104,Aug-2020,220/132,Mehna Khera (T/F-III),100,HVPNL,State Sector
+105,Aug-2020,220/132,Neemwala S/s,100,HVPNL,State Sector
+106,Aug-2020,220/132,Garhwa,300,JUSNL,State Sector
+107,Aug-2020,220/132,Giridih S/S,300,JUSNL,State Sector
+108,Aug-2020,220/132,Godda GSS,300,JUSNL,State Sector
+109,Aug-2020,220/110,Bagalkot (Addl T/F),100,KPTCL,State Sector
+110,Aug-2020,220/132,Sheopur (2nd T/F),160,MPPTCL,State Sector
+111,Aug-2020,220/132,Madhuvan Bapudham Ghaziabad (Aug) T/F-II,160,UPPTCL,State Sector
+112,Aug-2020,220/132,Partapur Meerut (Aug) T/F-III,160,UPPTCL,State Sector
+113,Aug-2020,220/132,Vrindawan Mathura (New) T/F-I,160,UPPTCL,State Sector
+114,Aug-2020,220/33,Neemwala,100,HVPNL,State Sector
+115,Aug-2020,220/132,Jasidih S/S,300,JUSNL,State Sector
+116,Sep-2020,800,Raigarh and Pugalur Station with 6000 MW HVDC Terminal (Pole-I),1500,PGCIL,Central Sector
+117,Sep-2020,400/220,Augmentation at Bhuj S/S (3rd ICT),500,PGCIL,Central Sector
+118,Sep-2020,400/220,Banaskantha s/s,1000,PGCIL,Central Sector
+119,Sep-2020,400/220,Devanahalli (Hardware Park),1000,KPTCL,State Sector
+120,Sep-2020,220/132,New Tanda Ambedkar Nagar (Aug) T/F-III,160,UPPTCL,State Sector
+121,Sep-2020,220/33,Deroli Ahir S/s,100,HVPNL,State Sector
+122,Sep-2020,220/110,Manjeri s/s,200,KSEB,State Sector
+123,Sep-2020,220/66,Mesanka,160,GETCO,State Sector
+124,Sep-2020,220/33,RGEC Sonipat (2nd T/F),100,HVPNL,State Sector
+125,Sep-2020,220/132,Neemwala (3rd T/F),100,HVPNL,State Sector
+126,Sep-2020,220/132,Kesinga (1st Auto T/F),160,OPTCL,State Sector
+127,Sep-2020,220/132,Rawatsar,160,RVPNL,State Sector
+128,Oct-2020,400/220,Extension at Amritsar (Balachak) PG Substation,500,PGCIL,Central Sector
+129,Oct-2020,400/132,Sector-123 Noida New T/F- I and II,400,UPPTCL,State Sector
+130,Oct-2020,230/110,Samayanallur S/S,200,TANTRANSCO,State Sector
+131,Oct-2020,220/132,Neebkarori T/F- II (Capacity Augmentation),100,UPPTCL,State Sector
+132,Oct-2020,220/110,Kothamangalam (T/F-I),100,KSEB,State Sector
+133,Oct-2020,220/66,Somanahalli T/F-I Aug (1x150 - 1x100),50,KPTCL,State Sector
+134,Oct-2020,220/66,Asoj (Aug.) (1x160 ),160,GETCO,State Sector
+135,Oct-2020,220/132,Gorabazar S/S,160,MPPTCL,State Sector
+136,Oct-2020,220/132,Hoshangabad S/S,160,MPPTCL,State Sector
+137,Dec-2020,400/220,Extn. at Bhadla S/s (ICT-I),500,PGCIL,Central Sector
+138,Dec-2020,400/220,Extn. at Rourkela S/s (ICT-I),315,PGCIL,Central Sector
+139,Dec-2020,400/220,New Mariani S/s (ICT-I),500,PGCIL,Central Sector
+140,Dec-2020,400/220,Podili (3rd ICT)),315,APTRANSCO,State Sector
+141,Dec-2020,400/220,Kurud (Dhamtari) (T/F-II),315,CSPTCL,State Sector
+142,Dec-2020,400/220,Muzaffarnagar (Additional T/F),500,UPPTCL,State Sector
+143,Dec-2020,400/220/132,Rachaganneri (T/F-II),315,APTRANSCO,State Sector
+144,Dec-2020,220/110,Chalakudy S/S,200,KSEB,State Sector
+145,Dec-2020,220/66,Virpore S/s,160,GETCO,State Sector
+146,Dec-2020,220/110,Kaloor (T/F-I),160,KSEB,State Sector
+147,Dec-2020,220/132,Ratangarh (T/F-II),160,MPPTCL,State Sector
+148,Dec-2020,220/132,Badhaikala Muzaffarnagar (New) T/F- I,160,UPPTCL,State Sector
+149,Dec-2020,220/132,Charla Meerut (Additional T/F),100,UPPTCL,State Sector
+150,Dec-2020,220/132,Madhuvan Bapudham Ghaziabad (New) T/F-II,60,UPPTCL,State Sector
+151,Dec-2020,220/66,Motigop S/S,160,GETCO,State Sector
+152,Feb-2021,765/400,Medinipur S/s (PM-JTL -TBCB),3000,PGCIL,Central Sector
+153,Feb-2021,400/220,Extn. at Rourkela S/stn. (ICT-II),315,PGCIL,Central Sector
+154,Feb-2021,400/220,DSTPS ICT-II S/s,315,DVC,Central Sector
+155,Feb-2021,220/132,DSTPS,160,DVC,Central Sector
+156,Feb-2021,400/220,Ujjain 400 KV sub-station (T/F-I),315,MPPTCL,State Sector
+157,Feb-2021,400/220,Firozabad S/s,1000,UPPTCL,State Sector
+158,Feb-2021,230/110,Shenbagapudur,200,TANTRANSCO,State Sector
+159,Feb-2021,230/110,Singarapet,100,TANTRANSCO,State Sector
+160,Feb-2021,220/66,Selavadar (Talaja),160,GETCO,State Sector
+161,Feb-2021,220/33,Bhenda S/s (Addl T/F) (220/132/33kV),50,MSETCL,State Sector
+162,Feb-2021,220/132,Kamavarapukota at West Godavarai District (Aug.),160,APTRANSCO,State Sector
+163,Feb-2021,220/132,Nuziveedu at Guntur Dist. (Aug),60,APTRANSCO,State Sector
+164,Feb-2021,220/132,RS Gooty at Anantapuram District (Aug.),60,APTRANSCO,State Sector
+165,Feb-2021,220/132,Simhachalam,200,APTRANSCO,State Sector
+166,Feb-2021,220/132,Tadikonda at (Guntur District (Aug)),50,APTRANSCO,State Sector
+167,Feb-2021,220/132,Delina (Augmentation ),160,JKPDD,State Sector
+168,Feb-2021,220/110,Aluva,400,KSEB,State Sector
+169,Mar-2021,800,Raigarh and Pugalur Station with 6000 MW HVDC Terminal (Pole-II),1500,PGCIL,Central Sector
+170,Mar-2021,400/220,North Trichur Substation,630,PGCIL,Central Sector
+171,Mar-2021,400/220,Aug. at Gajuwaka (T/F),500,PGCIL,Central Sector
+172,Mar-2021,400/220,Chandauti S/S (ERSS-XXITL-TBCB),1500,PGCIL,Central Sector
+173,Mar-2021,400/220,Extn. at Fatehpur S/S,500,PGCIL,Central Sector
+174,Mar-2021,400/220,Extn. at Saharanpur S/S,500,PGCIL,Central Sector
+175,Mar-2021,400/220,Mariani New (ICT-II) extn,500,PGCIL,Central Sector
+176,Mar-2021,400/220,Repl of 400/220kV Malda S/s (3x315-2x500),185,PGCIL,Central Sector
+177,Mar-2021,320,Pugalur (2000 MW) and Terminal at North Trichur (2000 MW) VSC based HVDC Station (Monopole-II),1000,PGCIL,Central Sector
+178,Mar-2021,220/132,Chandauti Sub station (ERSS-XXITL-TBCB),600,PGCIL,Central Sector
+179,Mar-2021,400/220,Pachcham (Transformer-I),500,GETCO,State Sector
+180,Mar-2021,400/220,Pithampur 400kV S/S (Addl. X-mer),315,MPPTCL,State Sector
+181,Mar-2021,400/220,Bhachunda GIS (Dist. Kutch) (T/F-I),500,GETCO,State Sector
+182,Mar-2021,400/220,Chakan (Addl-ICT),315,MSETCL,State Sector
+183,Mar-2021,400/132,Thoubal S/S,315,"ED, Manipur",State Sector
+184,Mar-2021,400/220,Mylasandra GIS (Near Electronic city),1500,KPTCL,State Sector
+185,Mar-2021,400/220,Mandsaur (Addl T/F),160,MPPTCL,State Sector
+186,Mar-2021,400/220,Mandsaur (Sitamau) (GEC-I),630,MPPTCL,State Sector
+187,Mar-2021,230/110,Villupuram (2x100 to 2x160) (GEC-I),60,TANTRANSCO,State Sector
+188,Mar-2021,220/33,Pandharpur Replacement ICT T/F,50,MSETCL,State Sector
+189,Mar-2021,220/33,Jaffarpur S/S,100,PTCUL,State Sector
+190,Mar-2021,220/110,Heggunje (Mandarthi) S/S,200,KPTCL,State Sector
+191,Mar-2021,220/66,Pachcham (T/F-I),160,GETCO,State Sector
+192,Mar-2021,220/66,Wankaner S/S (Dist. Rajkot) (GEC-I) (3x160 MVA),480,GETCO,State Sector
+193,Mar-2021,220/66,T. Gollahalli (Thimmansandra) S/S,200,KPTCL,State Sector
+194,Mar-2021,220/66,DSIIDC Bawana,160,DTL,State Sector
+195,Mar-2021,220/110,Mughalkod S/S (GEC-I),200,KPTCL,State Sector
+196,Mar-2021,220/132,Chakrayapet,200,APTRANSCO,State Sector
+197,Mar-2021,220/132,Gollapuram,200,APTRANSCO,State Sector
+198,Mar-2021,220/132,Pydibhimavaram S/S,300,APTRANSCO,State Sector
+199,Mar-2021,220/132,Tirumalayapalli,300,APTRANSCO,State Sector
+200,Mar-2021,220/132,Dumraon (GIS) ICT-I and II,320,BSPTCL,State Sector
+201,Mar-2021,220/132,Khagaria New ICT-I,160,BSPTCL,State Sector
+202,Mar-2021,220/132,Indore S/s (Addl T/F),160,MPPTCL,State Sector
+203,Mar-2021,220/132,Nalkheda (T/F-I) (Susner) (GEC),160,MPPTCL,State Sector
+204,Mar-2021,220/132,Panagar (Addl T/F),160,MPPTCL,State Sector
+205,Mar-2021,220/132,Akal (Aug),500,RVPNL,State Sector
+206,Mar-2021,220/132,Chhatargarh GSS (Upgradation) (GEC-I),160,RVPNL,State Sector
+207,Mar-2021,220/132,Kanasar ICT-II,160,RVPNL,State Sector
+208,Mar-2021,220/132,Sikarai (Aug),100,RVPNL,State Sector
+209,Mar-2021,220/132,Banswada,200,TSTRANSCO,State Sector
+210,Mar-2021,220/132,Nirpura S/s Baghpat,160,UPPTCL,State Sector
+211,Mar-2021,220/132,Rania Kanpur (T/F aug),100,UPPTCL,State Sector
+212,Mar-2021,220/132/33,Upgradation of the existing 220/11KV Lift Irrigation S/S to Ramavaram at East Godavari District,200,APTRANSCO,State Sector
+213,Mar-2021,400/220/132,Badaun GIS (OBTL),950,APL,Private Sector
+214,Apr-2021,400/220,Extn. at Jeypore s/s (ICT-I),315,PGCIL,Central Sector
+215,Apr-2021,400/220/132,Sitamarhi S/S ERSS XXITL-TBCB),1400,PGCIL,Central Sector
+216,Apr-2021,400/220,Vemagiri (ICT-4),500,APTRANSCO,State Sector
+217,Apr-2021,230/33,TNEB Head Quarters,200,TANTRANSCO,State Sector
+218,Apr-2021,220/110,Gadag (Addl.- T/F),100,KPTCL,State Sector
+219,Apr-2021,220/33,Hukmawali (Aug.),100,HVPNL,State Sector
+220,May-2021,765/400,Bhuj S/S,3000,PGCIL,Central Sector
+221,May-2021,400/132,Extn. at Motihari S/S,315,PGCIL,Central Sector
+222,May-2021,400/220,Bhuj S/S,1500,PGCIL,Central Sector
+223,May-2021,400/220,Maath Mathura (Capacity Augmentation),500,UPPTCL,State Sector
+224,May-2021,220/132,Banga (Upgradation of 132 KV S/Stn. to 220 KV S/Stn. ),100,PSTCL,State Sector
+225,May-2021,220/33,Akiveedu S/S at West Godavari Dist.,80,APTRANSCO,State Sector
+226,May-2021,220/33,Nirpura Baghpat (New) T/F,60,UPPTCL,State Sector
+227,Jun-2021,320,VSC based HVDC Terminal at Pugalur and North Trishur (2000MW) (Monopole-I),1000,PGCIL,Central Sector
+228,Jun-2021,400/220,Ujjain S/S (T/F-II),315,MPPTCL,State Sector
+229,Jun-2021,400/220,BTPS Switchyard,315,TSTRANSCO,State Sector
+230,Jun-2021,220/11,Markook LIS s/s (Station PTR-I),16,TSTRANSCO,State Sector
+231,Jun-2021,220/11,Mupkal LIS s/s (T/F-I and II) (2x60 MVA),120,TSTRANSCO,State Sector
+232,Jun-2021,220/132,Ujjain S/S (160),160,MPPTCL,State Sector
+233,Jun-2021,220/132,Pratapsasan S/s (T/F-I),160,OPTCL,State Sector
+234,Jun-2021,220/11,Akkaram LIS s/s (Aug) (Pump T/F-II to VI) (5x31.5MVA),158,TSTRANSCO,State Sector
+235,Jun-2021,220/33,Phaltan S/s (Addl T/F),25,MSETCL,State Sector
+236,Jun-2021,220/33,Bheemghanpur,32,TSTRANSCO,State Sector
+237,Jun-2021,220/33,Chanchalguda GIS (3x50 MVA),150,TSTRANSCO,State Sector
+238,Jun-2021,220/66,Rampur Kamboyan (Aug.),100,HVPNL,State Sector
+239,Jun-2021,220/132,Kothur s/s (2x160 MVA),320,TSTRANSCO,State Sector
+240,Jun-2021,220/11,Akkaram LIS s/s (Station T/F-I and II) and (Pump T/F-I) (3x31.5MVA),95,TSTRANSCO,State Sector
+241,Jun-2021,220/11,Markook LIS s/s (16 MVA Station PTR-II) and (6x40 MVA Pump PTR- I to VI),256,TSTRANSCO,State Sector
+256,Jul-2021,220/132,Nagarkurnool,200,TSTRANSCO,State Sector
+257,Jul-2021,220/132,Pedagopathi S/S,200,TSTRANSCO,State Sector
+258,Jul-2021,220/132,Renzal S/S (Upgradation of existing 132/33 s/s),200,TSTRANSCO,State Sector
+259,Jul-2021,220/132/33,Aswaraopet SS upgradation from 132 kV,100,TSTRANSCO,State Sector
+260,Jul-2021,220/11,Annaram S/S (50 MVA STR-I and 4x50 MVA PTR-I to IV),250,TSTRANSCO,State Sector
+261,Jul-2021,220/132/33,Meenajipet s/s,200,TSTRANSCO,State Sector
+262,Jul-2021,220/33,Radhanesda,375,GETCO,State Sector
+263,Jul-2021,220/33,Telkoi,20,OPTCL,State Sector
+264,Jul-2021,220/33,Domalapenta s/s,63,TSTRANSCO,State Sector
+265,Jul-2021,220/33,Nagaram S/S,63,TSTRANSCO,State Sector
+266,Jul-2021,220/33,Phoolbagh Kanpur (New) T/F-II,60,UPPTCL,State Sector
+267,Jul-2021,220/33,Sikandarabad T/F-II (Capacity Augmentation),60,UPPTCL,State Sector
+268,Jul-2021,220/66,Kathua-II (Ghatti) (New) Grid station,160,JKPDD,State Sector
+269,Jul-2021,220/66,Samba(New) Grid station,160,JKPDD,State Sector
+270,Jul-2021,220/132/33,Huzurnagar S/S,200,TSTRANSCO,State Sector
+271,Jul-2021,220/11,Annaram S/S (50 MVA STR-II and 4x50 MVA PTR-V to VIII),250,TSTRANSCO,State Sector
+272,Jul-2021,220/11,Gouridevipally S/S,100,TSTRANSCO,State Sector
+273,Jul-2021,220/11,Medigadda s/s (50 MVA STR-II and 8x50 MVA PTR-IVto XI),450,TSTRANSCO,State Sector
+274,Jul-2021,220/11,Rajeshwarrao peta s/s,120,TSTRANSCO,State Sector
+275,Jul-2021,220/11,Rampur (120 MVA) S/S,120,TSTRANSCO,State Sector
+276,Jul-2021,220/11,Yelluru Water Grid S/S,100,TSTRANSCO,State Sector
+277,Jul-2021,400/220,Dhanbad New s/s (NKTL-TBCB),1000,APL,Private Sector
+242,Jul-2021,800,Raigarh and Pugalur Station with 6000 MW HVDC Terminal (Pole-III),1500,PGCIL,Central Sector
+243,Jul-2021,400/220,Augmentation of Transformation Capacity at 400/200 KV Gajuwaka S/S,500,PGCIL,Central Sector
+244,Jul-2021,400/110,K.R.Thoppur (Addl T/F),200,TANTRANSCO,State Sector
+245,Jul-2021,400/220/11,Sundilla s/s (2x315 MVA ICTs-I and II 50 MVA STR-I and 50 MVA PTR-I),730,TSTRANSCO,State Sector
+246,Jul-2021,400/220/33,Sundilla s/s (2x315 MVA ICTs-III and IV 50 MVA STR-II and 6x50 MVA PTR-II to VII),980,TSTRANSCO,State Sector
+247,Jul-2021,230/110,Mambakkam (Addl T/F),100,TANTRANSCO,State Sector
+248,Jul-2021,230/110,Valayapatti (Addl T/F),100,TANTRANSCO,State Sector
+249,Jul-2021,220/110,Kunnamangalam GIS s/s,100,KSEB,State Sector
+250,Jul-2021,220/110,Medigadda s/s (50 MVA STR-I and 3x50 MVA PTR-I to III),200,TSTRANSCO,State Sector
+251,Jul-2021,220/132,Huzurabad S/S,200,TSTRANSCO,State Sector
+252,Jul-2021,220/132,Janagaon s/s (Upgradation of existing 132/33 s/s),200,TSTRANSCO,State Sector
+253,Jul-2021,220/132,Kalluru S/S,200,TSTRANSCO,State Sector
+254,Jul-2021,220/132,Madugula,200,TSTRANSCO,State Sector
+255,Jul-2021,220/132,Mahabubabad (Ayyagaripally),100,TSTRANSCO,State Sector
+278,Aug-2021,765/400/220,Extension 765/400/220 kV Fatehgarh-II PS (Jaisalmer) (PGCIL-RTM),1000,PGCIL,Central Sector
+279,Aug-2021,765/400,Eastablishment of 765/400 Fathehgarh -II PS,1500,PGCIL,Central Sector
+280,Aug-2021,400/220,Extn. at 400/220 kV Bhadla,500,PGCIL,Central Sector
+281,Aug-2021,400/220,Extn. at 400/220 kV Jabalpur S/S,500,PGCIL,Central Sector
+282,Aug-2021,400/220,Extension 400/220 kV Bikaner (PG) Substation (PGCIL-RTM),500,PGCIL,Central Sector
+283,Aug-2021,400/220,Jehta (Hardoi Road) S/s Lucknow,1000,UPPTCL,State Sector
+284,Aug-2021,230/110,Acharapakkam (Addl T/F),100,TANTRANSCO,State Sector
+285,Aug-2021,230/110,Thirupathur S/S,100,TANTRANSCO,State Sector
+286,Aug-2021,220/33,Hayathnagar (Aug) (2x100) - (1x100 1x50),50,TSTRANSCO,State Sector
+287,Aug-2021,220/132,Indravelly (Utnoor) S/S with Automation System,200,TSTRANSCO,State Sector
+288,Aug-2021,220/33,I.I.T.G.N.L. Gr. Noida (New) T/F-I,60,UPPTCL,State Sector
+289,Aug-2021,220/132,Jehta (Hardoi Road) S/s (Lucknow),200,UPPTCL,State Sector
+290,Aug-2021,220/33,Radhanesda (Addl T/F),125,GETCO,State Sector
+291,Aug-2021,220/33,Gurgaon Sector-107 GIS,200,HVPNL,State Sector
+292,Aug-2021,220/33,Sukha (Jabalpur) (Addl. T/F-II),50,MPPTCL,State Sector
+293,Aug-2021,220/33,Kalwan (Bhendi) (Addl T/F),50,MSETCL,State Sector
+294,Aug-2021,220/33,Deogarh,40,OPTCL,State Sector
+295,Aug-2021,220/33,Laphripara,40,OPTCL,State Sector
+296,Sep-2021,765/400,Khetri SS (ICT-I),1500,PGCIL,Central Sector
+297,Sep-2021,765/400,Jeerat (New) S/s (PM-JTL -TBCB),3000,PGCIL,Central Sector
+298,Sep-2021,400/220,1x500MVA 400/220kV ICT at Fatehgarh-II PS,500,PGCIL,Central Sector
+299,Sep-2021,400/220,400/220/132 kV Saharsa S/S (1x500 MVA ICT of 400/220 kV) (ERSS-XXITL-TBCB),500,PGCIL,Central Sector
+300,Sep-2021,220/132,400/220/132 kV Saharsa S/S (2 x 200 MVA ICTs of 220/132 kV) (ERSS-XXITL-TBCB),400,PGCIL,Central Sector
+301,Sep-2021,220/66,Faridabad Sector-58 GIS,320,HVPNL,State Sector
+302,Sep-2021,220/33,Babhaleshwar S/s (Addl T/F),50,MSETCL,State Sector
+303,Sep-2021,220/33,Radhanesda (Addl. T/F),125,GETCO,State Sector
+304,Sep-2021,220/132,Ujjain (T/F-II),160,MPPTCL,State Sector
+305,Oct-2021,800,Raigarh and Pugalur HVDC (Pole-4),1500,PGCIL,Central Sector
+306,Oct-2021,765/400,Establishment of 765/400 kV 2x1500 MVA S/S at Khetri,1500,PGCIL,Central Sector
+307,Oct-2021,765/400,Fatehgarh-II PS (2nd ICT Bank),1500,PGCIL,Central Sector
+308,Oct-2021,765/400,Establishment of 765/400 kV Bhadla-II PS (PGCIL-RTM),3000,PGCIL,Central Sector
+309,Oct-2021,400/220,400/220 kV ICT at Jeypore S/S,315,PGCIL,Central Sector
+310,Oct-2021,400/220,Extn. of 765/400/220 kV Bhadla (PG) S/S (400/220kV ICT-I at Bhadla S/S),500,PGCIL,Central Sector
+311,Oct-2021,400/220,Saharsa S/S (2nd 500 MVA ICT),500,PGCIL,Central Sector
+312,Oct-2021,400/220,Makhu (Addl. T/F),500,PSTCL,State Sector
+313,Oct-2021,400/220,Addl. T/F (ICT-2) at Jaisalmer,500,RVPNL,State Sector
+314,Oct-2021,230/110,Kanchipuram s/s,100,TANTRANSCO,State Sector
+315,Oct-2021,230/110,Thuvakudy S/S,100,TANTRANSCO,State Sector
+316,Oct-2021,230/110,Karuvalur S/S,100,TANTRANSCO,State Sector
+317,Oct-2021,220/132,Pydibhimavaram at (Srikakulam District),100,APTRANSCO,State Sector
+318,Oct-2021,220/66,GNDTP Bhatinda,200,PSTCL,State Sector
+319,Oct-2021,220/132,Wankaner S/S (Dist. Rajkot) (GEC-I),300,GETCO,State Sector
+320,Oct-2021,220/132,Kukshi 220/132kV S/S,160,MPPTCL,State Sector
+321,Oct-2021,220/132,GNDTP Bhatinda,300,PSTCL,State Sector
+322,Oct-2021,220/132,Amethi (New) T/F-I,160,UPPTCL,State Sector
+323,Oct-2021,220/132/33,Chatra S/S,300,JUSNL,State Sector
+324,Oct-2021,220/33,Lassipora (GIS),160,JKPDD,State Sector
+325,Oct-2021,220/33,Indore (East),50,MPPTCL,State Sector
+326,Oct-2021,220/33,Botanical Garden (Sec-38A)Noida (Capacity Aug.) T/F-III),60,UPPTCL,State Sector
+327,Oct-2021,220/33,Pratap Vihar (Capacity Aug.) T/F-II,60,UPPTCL,State Sector
+328,Oct-2021,220/66,Tubinakere (T/F-I Replacement (150-100)),50,KPTCL,State Sector
+329,Oct-2021,220/66,Alawalpur (Addl. T/F),100,PSTCL,State Sector
+330,Nov-2021,765/400,1x1500MVA 765/400kV ICT at Fatehgarh-II,1500,PGCIL,Central Sector
+331,Nov-2021,765/400,765/400kV ICT at Bhiwani (PG) SS,1000,PGCIL,Central Sector
+332,Nov-2021,400/220,1x500MVA 400/220 kV ICT at Fatehgarh-II PS,500,PGCIL,Central Sector
+333,Nov-2021,400/220,400/220kV ICT at Itarsi S/S,500,PGCIL,Central Sector
+334,Nov-2021,400/220,400/220kV ICT at Sonepat,500,PGCIL,Central Sector
+335,Nov-2021,400/220/11,Kamalapuram SS (2x315 ICT I and II ),630,TSTRANSCO,State Sector
+336,Nov-2021,220/33,Dahi Chowki Unnao (New) T/F-III,60,UPPTCL,State Sector
+337,Nov-2021,220/132,Shivpuri s/s,160,MPPTCL,State Sector
+338,Nov-2021,220/66,Tubinakere (T/F-II Replacement (150-100)),50,KPTCL,State Sector
+339,Nov-2021,220/132,Magarpatta (ICT Replacement) (200-100),100,MSETCL,State Sector
+340,Nov-2021,220/132,Huzurabad (Aug) ((2x100 160) -(2x100)),160,TSTRANSCO,State Sector
+341,Nov-2021,220/132,Gola (New) T/F-I,160,UPPTCL,State Sector
+342,Nov-2021,220/132,Pratapgarh T/F (Capacity Augmentation),160,UPPTCL,State Sector
+343,Nov-2021,220/132,Tundla Firozabad (New) T/F-I,160,UPPTCL,State Sector
+344,Dec-2021,400/220,Establishment of 765/400 kV Fatehgarh-II PS(Jaisalmer) ( 500MVA 400/220kV ICT) (PGCIL-RTM),500,PGCIL,Central Sector
+345,Dec-2021,400/220,Extn. at 400/220 kV Roorkee (ICT-III),500,PGCIL,Central Sector
+346,Dec-2021,400/220,Extn. of 765/400/220 kV Bhadla (PG) (1x500MVA 400/220kV ICT)S/S,500,PGCIL,Central Sector
+347,Dec-2021,220/132,Badaikala Muzaffarnagar (New) T/F-II,160,UPPTCL,State Sector
+348,Dec-2021,220/33,Satrikh Road (Lucknow) (New) T/F-I,60,UPPTCL,State Sector
+349,Dec-2021,220/132,Sagar,160,MPPTCL,State Sector
+350,Dec-2021,220/66,Jadla (Addl. T/F),100,PSTCL,State Sector
+351,Dec-2021,220/66,Mohali (Aug. of 100 to 160 MVA),60,PSTCL,State Sector
+352,Dec-2021,220/66,Sira (T/F-I),100,KPTCL,State Sector
+353,Dec-2021,220/132,Rayadurg (GIS) S/S,320,TSTRANSCO,State Sector
+354,Dec-2021,220/132,400 kV S/s Gr Noida G B Nagar T/F (Capacity Aug),160,UPPTCL,State Sector
+355,Jan-2022,400/220,Extension 400/220 kV Bikaner (PG) Substation (ICT-II),500,PGCIL,Central Sector
+356,Jan-2022,220/132,Dhanbad (2 Auto-Xmer),160,DVC,Central Sector
+357,Jan-2022,220/132,Dimapur (PG) GIS S/S,220,PGCIL,Central Sector
+358,Jan-2022,220/132,Burdwan GIS along with associated line bays at Parulia S/s,320,DVC,Central Sector
+359,Jan-2022,400/220,Meramundali-B (ICT-I),500,OPTCL,State Sector
+360,Jan-2022,400/220,Akal Jaisalmer (Aug.) (500-315),185,RVPNL,State Sector
+361,Jan-2022,400/220,Kankani s/s (Addl T/F),315,RVPNL,State Sector
+362,Jan-2022,400/220,Basti (GIS) (T/F-I),500,UPPTCL,State Sector
+363,Jan-2022,400/220/132,Talandage S/s (ICT Replacement) (501-315),186,MSETCL,State Sector
+364,Jan-2022,400/220/132,Rayadurg GIS S/S,1000,TSTRANSCO,State Sector
+365,Jan-2022,400/220,Bhogat S/S,500,GETCO,State Sector
+366,Jan-2022,400/220,Patratu GSS (PGCIL),630,JUSNL,State Sector
+367,Jan-2022,400/220,Karjat S/S,1000,MSETCL,State Sector
+368,Jan-2022,220/132,Azizpur S/s Shahjahanpur (T/F-I),160,UPPTCL,State Sector
+369,Jan-2022,220/132,Jehta Hardoi Road (GIS) (New) T/F-II,200,UPPTCL,State Sector
+370,Jan-2022,220/110,Gangavathi (Sulekal) S/S,200,KPTCL,State Sector
+371,Jan-2022,220/132,Pilibhit T/F-II (Capacity Aug.),60,UPPTCL,State Sector
+372,Jan-2022,220/132,Sambhal T/F-I (Capacity Aug.),60,UPPTCL,State Sector
+373,Jan-2022,220/132,Shamli s/s (220 /132 kV T/F-I),200,UPPTCL,State Sector
+374,Jan-2022,220/66,Bhogat s/s,320,GETCO,State Sector
+375,Jan-2022,220/66,Kim (Aug) ((1x160 4x100)-(4x100)),160,GETCO,State Sector
+376,Jan-2022,220/66,Timbdi (Aug) ((3x100)-(2x100 1x50)),50,GETCO,State Sector
+377,Jan-2022,220/66,Hoody (T/F-I Replacement of 100 MVA by 150 MVA),50,KPTCL,State Sector
+378,Jan-2022,220/66,Dasuya (Addl. T/F),100,PSTCL,State Sector
+379,Jan-2022,220/132,Nighasan Lakhimpur T/F-I (Capacity Aug.),160,UPPTCL,State Sector
+380,Jan-2022,220/110,Kudachi (Addl T/F),100,KPTCL,State Sector
+381,Jan-2022,220/110,Netlamadnur (Addl T/F),100,KPTCL,State Sector
+382,Jan-2022,220/132,Karamnasha (New) s/s,400,BSPTCL,State Sector
+383,Jan-2022,220/132,Ratu,300,JUSNL,State Sector
+384,Jan-2022,220/132,Mandsaur,160,MPPTCL,State Sector
+385,Jan-2022,220/132,Bhandara S/s (ICT Replacement) (200-100),100,MSETCL,State Sector
+386,Jan-2022,220/132,Lonikand -II S/S (ICT-I),100,MSETCL,State Sector
+387,Jan-2022,220/132,Lonikand -II S/S (ICT-II),100,MSETCL,State Sector
+388,Jan-2022,220/132,Bansur s/s (Aug.),100,RVPNL,State Sector
+389,Jan-2022,220/132,Dechu s/s (Aug.),100,RVPNL,State Sector
+390,Jan-2022,220/132,Sirohi s/s (Aug),100,RVPNL,State Sector
+391,Jan-2022,220/132,Amaria S/S (T/F-I) Pilibhit,100,UPPTCL,State Sector

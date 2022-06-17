@@ -1,0 +1,344 @@
+id,month,voltage_level,transmission_line,circuit_type,executing_agency,line_length,sector
+33,Dec-2019,400,Edaomon (KSEB) - Muvattupuzha (PG) (Quad) line (2nd Ckt.),D/C,PGCIL,148,Central Sector
+34,Dec-2019,400,Madhugiri - Yelhanka line (Quad) line (1st Ckt.),D/C,PGCIL,66,Central Sector
+35,Dec-2019,220,Re-conductoring of New Purnea - Purnea line,D/C,PGCIL,2,Central Sector
+36,Dec-2019,400,LILO of Raita - Jagdalpur at Kurud,D/C,CSPTCL,2,State Sector
+37,Dec-2019,230,TPS-II - Neyveli 230kV S/S,D/C,TANTRANSCO,10,State Sector
+38,Dec-2019,220,2nd Ckt. of 220 kV Tilwani - Miraj line (From loc no 4 to 43),S/C on D/C,MSETCL,13,State Sector
+39,Dec-2019,220,DCDS Barsoor - Jagdalpur line,D/C,CSPTCL,177,State Sector
+40,Dec-2019,220,Hatia (JUSNL) - Namkum (PGCIL),D/C,JUSNL,65,State Sector
+41,Dec-2019,220,Kavanoor - Karaikudi (Existing),D/C,TANTRANSCO,176,State Sector
+42,Dec-2019,220,LILO of 220 kV KTS- Lower Sileru-I line at 220/11kV VK Ramavaram LI SS,D/C,TSTRANSCO,3,State Sector
+43,Dec-2019,220,LILO of both ckt. Fatehabad - Rania line at 220kV Mehna Khera,D/C,HVPNL,92,State Sector
+21,Jan-2020,765,Chilkaluripeta - Cudappah (PSITL - TBCB),D/C,PGCIL,577,Central Sector
+22,Jan-2020,765,Vemagiri - Chilkaluripeta (PSITL -TBCB),D/C,PGCIL,558,Central Sector
+23,Jan-2020,400,Nirmal - Dichpally at Jangaon (QM) line,D/C,TSTRANSCO,120,State Sector
+24,Jan-2020,220,Balimela - Malkangiri 2nd Ckt.,S/C,OPTCL,21,State Sector
+25,Jan-2020,220,LILO of existing KTS - Shapurnagar at Waddekothapally (Jangaon District),S/C,TSTRANSCO,17,State Sector
+26,Jan-2020,220,LILO of existing KTS-Shapurnagar proposed line at Jangaon,S/C,TSTRANSCO,45,State Sector
+27,Jan-2020,220,LILO of existing Waddekothapally - Bhongir (Both Ckts.) to proposed at Jangaon (Jangaon District),M/C,TSTRANSCO,104,State Sector
+28,Jan-2020,220,LILO of Savarkundla - Sagapara line at Gariyadhar S/s,D/C,GETCO,15,State Sector
+29,Jan-2020,220,Makhu - Rashiana,D/C,PSTCL,92,State Sector
+30,Jan-2020,220,Sabalgarh - Sheopurline (1st Ckt.),D/C,MPPTCL,106,State Sector
+31,Jan-2020,220,Shivarampally - Asifnagar 2nd ckt.,S/C,TSTRANSCO,4,State Sector
+32,Jan-2020,400,Ghatampur - Kanpur line,D/C,APL,98,Private Sector
+11,Feb-2020,400,Madhugiri - Yelhanka line (Quad) line (2nd Ckts) line,D/C,PGCIL,65,Central Sector
+12,Feb-2020,400,Sector-148 t Sector-123 Noida,D/C,UPPTCL,40,State Sector
+13,Feb-2020,400,Tervaikandigai - Korattur common point to Kovilpathagai OH-UG Junction Point (Portion of Thervaikandigai - Korattur 400 kV S/C line),D/C,TANTRANSCO,19,State Sector
+14,Feb-2020,220,Abdullapur (PG) - Rajokheri,D/C,HVPNL,44,State Sector
+15,Feb-2020,220,LILO of Bareilly - Shahjahanpur line at Faridpur,D/C,UPPTCL,8,State Sector
+16,Feb-2020,220,LILO of both ckts of Rangala Rajpur - Palwal at Prithala,M/C,HVPNL,25,State Sector
+17,Feb-2020,220,Neemuch - Ratangarh line (GEC-I),D/C,MPPTCL,88,State Sector
+18,Feb-2020,220,(PMDP - Kashmir) LILO of Zainkote - Delina at Kunzar (Sterlite S/S),D/C,JKPDD,20,State Sector
+19,Feb-2020,220,Zainakote - Alusteng (Portion of Zainkote -Alusteng - Mirbazar 220 kV D/C line),D/C,JKPDD,92,State Sector
+20,Feb-2020,400,Alipurduar (PG) - Siliguri (PG) (ATL - TBCB),D/C,KPTL,231,Private Sector
+1,Mar-2020,765,Bikaner - Moga (PG) line,D/C,PGCIL,734,Central Sector
+2,Mar-2020,400,Vadavi-Halvad (Pkg 1) ( Vadavi to AP-41),D/C,GETCO,149,State Sector
+3,Mar-2020,230,Ulundurpet 230 kV SS to the proposed Sankarapuram 230 kV SS,S/C on D/C,TANTRANSCO,58,State Sector
+4,Mar-2020,220,LILO of 220kV Vapi - Tarapur line at 220kV Sarigam,M/C,GETCO,13,State Sector
+5,Mar-2020,220,LILO of one ckt. of 220KV Humbran - Ferozpur Road (Ludhiana) at 220KV Ladowal,D/C,PSTCL,25,State Sector
+6,Mar-2020,765,Khandwa Pool - Indore (KTL - TBCB),D/C,SGL,180,Private Sector
+7,Mar-2020,400,Hiriyur - Mysore line (Ckt-I),D/C,PGCIL,206,Private Sector
+8,Mar-2020,400,Kadarpur - Sohna Road (GPTL - TBCB),D/C,SGL,21,Private Sector
+9,Mar-2020,400,Khargone TPP - Khandwa Pool (Q) (KTL - TBCB),D/C,SGL,50,Private Sector
+10,Mar-2020,400,LILO of Gurgaon - Manesar at Sohna Road (GPTL - TBCB),D/C,SGL,2,Private Sector
+49,Apr-2020,765,Tehri Pooling Station - Meerut (Remaining part),S/C,PGCIL,1,Central Sector
+50,Apr-2020,400,Hiriyur - Mysore line (Ckt.-II),D/C,PGCIL,206,Central Sector
+51,Apr-2020,230,Neyveli - Kadalangudi line,S/C,TANTRANSCO,77,State Sector
+52,Apr-2020,220,Jagalur (Hiremallanahole) - Kudligi,D/C,KPTCL,83,State Sector
+53,Apr-2020,220,Kothipura (Ramanagara) - Tubinakere,D/C,KPTCL,142,State Sector
+54,May-2020,400,Baharampur (PG) -Bheramerar (Bangladesh) line (2nd Ckt.) - India Portion,D/C,PGCIL,172,Central Sector
+55,May-2020,220,LILO of Meramundali - Duburi Ckt-I at Goda,S/C,OPTCL,12,State Sector
+56,May-2020,220,LILO of one Ckt. of Bhopal - Hoshangabad at Adampur,D/C,MPPTCL,6,State Sector
+57,Jun-2020,765,Charging of Tehri Pooling - Meerut line (2nd Ckt.),S/C,PGCIL,1,Central Sector
+58,Jun-2020,220,LILO of 220 kV Sarni - Pandhurna line at Betul (PGCIL),D/C,MPPTCL,78,State Sector
+59,Jun-2020,220,LILO of 2nd Ckt. of PGCIL Jalandhar - Kotla Jangan (nakodar) line at Kartarpur,D/C,PSTCL,1,State Sector
+60,Jun-2020,220,LILO of both ckt. Nagda - Neemuch at Mandsaur (LILO from loc.No. 211) S/s (GEC-I),DCDS,MPPTCL,56,State Sector
+61,Jun-2020,220,LILO of one Ckt. of 220kV KTS-Lower Sileru-I line - 400/220kV Asupaka S/S,D/C,TSTRANSCO,1,State Sector
+62,Jun-2020,220,LILO of Ratlam - Daloda 220kV line at Jaora (2nd Ckt.),D/C,MPPTCL,4,State Sector
+63,Jun-2020,220,LILO of Sikandararao - Jawaharpur TPSat Kashganj,D/C,UPPTCL,88,State Sector
+64,Jun-2020,220,PGCIL Bhadson - Salempur,D/C,HVPNL,13,State Sector
+65,Jun-2020,220,Rudrapur (Brahmwari) - Ghansali (Srinagar) line,D/C,PTCUL,150,State Sector
+66,Jul-2020,400,NNTPS Sw. Yd. - Ariyalur (Villupuram ) Line,D/C,PGCIL,147,Central Sector
+67,Jul-2020,400,Rajarhat - Purnea line (Triple Snowbird) (Balance Portion),D/C,PGCIL,420,Central Sector
+68,Jul-2020,230,LILO in 230 kV Othakalmandapam - Palladam at the proposed Edayarpalayam 400 kV SS,D/C,TANTRANSCO,4,State Sector
+69,Jul-2020,230,LILO in the existing 230 kV Neyveli TS-I Tiruvannamalai at Sankarapuram 230 kV SS,D/C,TANTRANSCO,64,State Sector
+70,Jul-2020,220,Bolangir (OPTCL) - Bolangir (PGCIL),D/C,OPTCL,3,State Sector
+71,Jul-2020,220,Dwarka - Pappan Kalan-I (underground XLPE Cable),D/C,DTL,3,State Sector
+72,Jul-2020,220,Gonda - Sohawal (PG),D/C,UPPTCL,41,State Sector
+73,Jul-2020,220,Lahal - bhudhil line,S/C,HPPTCL,2,State Sector
+74,Jul-2020,220,LILO of both Ckts. of Badshahpur - Sector -77 at Sohna Road Gurugram,D/C,HVPNL,3,State Sector
+75,Jul-2020,220,LILO of Kadakola - Chamarajanagara line to the proposed line at Begur,M/C,KPTCL,100,State Sector
+76,Jul-2020,220,LILO of one Ckt of Ashta- Dewas line at 220 kV S/S Chapda S/S,D/C,MPPTCL,68,State Sector
+77,Jul-2020,220,LILO of Pandharpur - Malinagar at Bhalwani S/S,D/C,MSETCL,20,State Sector
+78,Jul-2020,220,Termination of one d/c of Achhalia- Jambuva line at Vyankatpura s/s,D/C,GETCO,72,State Sector
+79,Jul-2020,220,Upgradation of 132kV Malegaon - Manmad SCSC line to 220kV line using same corridor/ROW,D/C,MSETCL,65,State Sector
+80,Jul-2020,400,New Kohima -New Mariani (Twin Moose ACSR) (K-MTL - TBCB),D/C,KPTL,236,Private Sector
+81,Aug-2020,400,Banaskantha PS - Banaskantha (PG) line,D/C,PGCIL,132,Central Sector
+82,Aug-2020,220,Chhata- Vrindawan Line,S/C,UPPTCL,35,State Sector
+83,Aug-2020,220,Daltonganj (PG)- Garhwa,D/C,JUSNL,183,State Sector
+84,Aug-2020,220,Godda - Dumka line,D/C,JUSNL,142,State Sector
+85,Aug-2020,220,Godda - Lalmatia,D/C,JUSNL,44,State Sector
+86,Aug-2020,220,Jasidih - Dumka,D/C,JUSNL,149,State Sector
+87,Aug-2020,220,Jasidih - Giridih line,D/C,JUSNL,154,State Sector
+88,Aug-2020,220,Kaithal (PGCIL) - Neemwala,D/C,HVPNL,64,State Sector
+89,Aug-2020,220,LILO of both ckt of Nagda - Neemuch 220 KV line at Mandsore(Sitamau) 400 kV S/s (Ckt II),DCDS,MPPTCL,47,State Sector
+90,Aug-2020,220,LILO of one Ckt of existing STPS - Ratangarh line at 220kV GSS Rawatsar,D/C,RVPNL,85,State Sector
+91,Aug-2020,220,Maath(400)- Vrindawan Line,S/C,UPPTCL,44,State Sector
+92,Aug-2020,220,Mandsaur (Sitamau) - Marut Shakti Pool (GEC-I),DCDS,MPPTCL,93,State Sector
+93,Sep-2020,800,Raigarh (HVDC stn) - Pugalur (HVDC stn) HVDC Bipole Link,BIPOLE,PGCIL,3531,Central Sector
+94,Sep-2020,400,Pugalur HVDC - Arasur line (Q),D/C,PGCIL,118,Central Sector
+95,Sep-2020,400,Pugalur HVDC - Pugalur line (Q),D/C,PGCIL,100,Central Sector
+96,Sep-2020,400,LILO of chittoor - Krishnapatnam at Rachagunneri S/S,D/C,APTRANSCO,127,State Sector
+97,Sep-2020,230,Neyveli 230/110 kV SS to the existing Thiruvannamalai and Cuddalore feeders,D/C,TANTRANSCO,6,State Sector
+98,Sep-2020,220,Asoj - IOCL line with ACSR Zebra conductor,D/C,GETCO,66,State Sector
+99,Sep-2020,220,Baghpat (220) - Baghpat (400) (2nd line),D/C,UPPTCL,15,State Sector
+100,Sep-2020,220,Kamalapuram LISS - V.K.Ramavaram line,D/C,TSTRANSCO,28,State Sector
+101,Sep-2020,220,LILO of Ataur - Muradnagar-II line at Madhuban Bapudham,D/C,UPPTCL,24,State Sector
+102,Sep-2020,220,LILO of FGPP - BBMB Samaypur line at Sector58 S/s,D/C,HVPNL,5,State Sector
+103,Sep-2020,220,LILO of one ckt. Nuna Majra - Daultabad at Sec.-107 Gurugram,D/C,HVPNL,4,State Sector
+104,Sep-2020,220,LILO of Wanakbori - Asoj and Wanakbori - Vyankatpura line on M/C tower with ACSR Zebra conductor and OPGW at Selvaliya S/S,D/C,GETCO,23,State Sector
+105,Sep-2020,220,Madakkathara - Malaparamba line,D/C,KSEB,97,State Sector
+106,Sep-2020,220,Shalimarbagh - Sanjay Gandhi Transport Nagar,M/C,DTL,8,State Sector
+107,Sep-2020,220,Shujalpur - Narsinghgarh Line,DCDS,MPPTCL,51,State Sector
+108,Oct-2020,400,LILO of both ckt. Jhakri Abdullapur at (Gumma) Pragati Nagar,D/C,HPPTCL,3,State Sector
+109,Oct-2020,400,LILO of one circuit of Akal - Jodhpur (new) line at Jaisalmer-2 (GEC-I),D/C,RVPNL,14,State Sector
+110,Oct-2020,400,Sagardighi TPS - Gokarna line,D/C,WBSETCL,89,State Sector
+111,Oct-2020,400,Thennampatty - SEPC IPP,D/C,TANTRANSCO,104,State Sector
+112,Oct-2020,230,LILO in the existing 230 kV Pasumalai - Alagarkoil at the proposed Samayanallur 230 kV SS,D/C,TANTRANSCO,9,State Sector
+113,Oct-2020,220,Kanwan - Dhar line (GEC-I),DCDS,MPPTCL,63,State Sector
+114,Oct-2020,220,LILO of Jhalawar - Chhabra line at 220 KV GSS Aklera,D/C,RVPNL,98,State Sector
+115,Nov-2020,220,LILO of Parulia - Dtps at Durgapur steel TPS,D/C,DVC,14,Central Sector
+116,Nov-2020,220,Bemetara - Mungeli line 2nd circuit,S/C,CSPTCL,40,State Sector
+117,Nov-2020,220,Gurur - Kurud (Bangoli),D/C,CSPTCL,74,State Sector
+118,Nov-2020,220,Jambuva - Waghodia ( PGCIL) line with AL-59 Conductor,D/C,GETCO,68,State Sector
+119,Nov-2020,220,Konnakuzhy - Chalakudy line,D/C,KSEB,22,State Sector
+120,Nov-2020,220,LILO of both Purnea (PG) - Begusarai at Khagaria (New),D/C,BSPTCL,14,State Sector
+121,Nov-2020,220,LILO of Jadla - Jamsher at 220 KV S/S Banga,D/C,PSTCL,11,State Sector
+122,Nov-2020,220,LILO of Vallabhipur - Vartej line at Maglana S/s,D/C,GETCO,9,State Sector
+123,Nov-2020,220,Palanpur - Amarigadh (DFCC) line,D/C,GETCO,80,State Sector
+124,Nov-2020,220,Snail -Hatkoti,D/C,HPPTCL,13,State Sector
+125,Dec-2020,400,Ramgarh - Bhadla line (Ckt-I),D/C,RVPNL,160,State Sector
+126,Dec-2020,220,Badod - Nalkheda (Susner ) (GEC),DCDS,MPPTCL,105,State Sector
+127,Dec-2020,220,Bhatia - Bhogat line (AL-59),D/C,GETCO,26,State Sector
+128,Dec-2020,220,Brahmapuram - Thuthiyoor line,M/C,KSEB,8,State Sector
+129,Dec-2020,220,Devanahalli Hardware park - Devanahali HW park S/S,M/C,KPTCL,12,State Sector
+130,Dec-2020,220,LILO of Muzaffarnagar - Nanauta line at Badhaikalan,D/C,UPPTCL,10,State Sector
+131,Dec-2020,220,LILO of one Ckt. of Ukai - Achhaliya line no.3 at Virpor (Package -2),D/C,GETCO,27,State Sector
+132,Dec-2020,220,LILO of Second Ckts. from BAIL (Begur - Hoskote at Devanahlli H/W Park,S/C,KPTCL,18,State Sector
+133,Dec-2020,220,Shirsuphal - Shirsai line,S/C,MSETCL,3,State Sector
+134,Dec-2020,220,Thuthiyoor - Kaloor (UG Cable),D/C,KSEB,14,State Sector
+135,Dec-2020,400,Imphal - New Kohima (Twin Moose ACSR) (K-MTL - TBCB),D/C,KPTL,272,Private Sector
+136,Jan-2021,400,Tehri Gen. - Tehri Pooling Station,S/C,PGCIL,13,Central Sector
+137,Jan-2021,400,Ramgarh - Bhadla line (Ckt-II),D/C,RVPNL,160,State Sector
+138,Jan-2021,230,Cuddalore - Veerapuram (SP Koil) Via Neyveli,D/C,TANTRANSCO,348,State Sector
+139,Jan-2021,230,LILO of existing 230 kV Shoolagiri - Vinnamangalam line at the proposed Tirupattur 230 kV SS,D/C,TANTRANSCO,12,State Sector
+140,Jan-2021,220,Chelari - Nallalam,M/C,KSEB,25,State Sector
+141,Jan-2021,220,LILO on 220 kV Deoli (PG) - Ghatodi line for 220kV Yavatmal,D/C,MSETCL,21,State Sector
+142,Jan-2021,220,Subashgram (PG) - Baruipur,D/C,WBSETCL,64,State Sector
+143,Jan-2021,400,Surajmaninagar - P. K. Bari line (NER-II TL-TBCB),D/C,SGL,155,Private Sector
+144,Feb-2021,765,Ranchi - Medinipur line (PM-JTL-TBCB),D/C,PGCIL,538,Central Sector
+145,Feb-2021,400,LILO of both ckts. of Chandithala - Kharagpur at Medinipur (PM-JTL-TBCB),D/C,PGCIL,148,Central Sector
+146,Feb-2021,400,Tumkur (Pavagada) PS - Devanahally (KPTCL) line - (Q),D/C,PGCIL,312,Central Sector
+147,Feb-2021,400,LILO of both Ckts. of Mamidipalli- Dindi TMDC line to Maheshwaram S/S on M/C,M/C,TSTRANSCO,13,State Sector
+148,Feb-2021,400,Madakkathara - Areekode line,D/C,KSEB,176,State Sector
+149,Feb-2021,400,Nagda - Ujjain line (GEC-I),DCDS,MPPTCL,53,State Sector
+150,Feb-2021,230,LILO of Thingalur - Ingur 230kV line at the proposed Erode GIS S/S,D/C,TANTRANSCO,28,State Sector
+151,Feb-2021,220,2nd Ckt. Stringing of 220kV Tlwani - Miraj line (Balance work),S/C + D/C,MSETCL,9,State Sector
+152,Feb-2021,220,Aluva - Kothamangalam line,D/C,KSEB,68,State Sector
+153,Feb-2021,220,Bahraich - Sohawal 400 (PG) line,S/C,UPPTCL,109,State Sector
+154,Feb-2021,220,Gajner - Chhatargarh line (GEC-I),D/C,RVPNL,166,State Sector
+155,Feb-2021,220,Georai - Thapti Tanda s/s,D/C,MSETCL,110,State Sector
+156,Feb-2021,220,LILO of 220kV Kalapaka - Dairyfarm to proposed 220/132/33kV S/S Simhachalam on MC Towers,D/C,APTRANSCO,24,State Sector
+157,Feb-2021,220,LILO of 220kV Narwana - Mund line at 400kV PGCIL Jind,D/C,HVPNL,168,State Sector
+158,Feb-2021,220,LILO of Firozabad (220) -Agra(PG) at Firozabad(400),D/C,UPPTCL,22,State Sector
+159,Feb-2021,220,LILO of Himmatpura - jagraon at Ajitwal,D/C,PSTCL,3,State Sector
+160,Feb-2021,220,LILO of one Ckt. of 220kV Ukai- Achhaliya line no. 2 at 220kV Virpor s/s on D/C and M/C Tower (Package-1) with AL-59 Condu. and OPGW,D/C,GETCO,42,State Sector
+161,Feb-2021,220,Makhu - Algaon,D/C,PSTCL,101,State Sector
+162,Feb-2021,220,Rachagunneru - Naidupeta line,D/C,APTRANSCO,30,State Sector
+163,Feb-2021,400,Silchar (PG) - Misa (PG) (Q) line (NER-II TL-TBCB),D/C,SGL,357,Private Sector
+164,Mar-2021,400,Additional 400KV D/C line at P.K.Bari s/s and Silchar S/S end for termination of P.K. Bari - Silchar 400KV D/C line,D/C,PGCIL,22,Central Sector
+165,Mar-2021,400,Darbhanga - Sitamarhi (New) line (Ckt.-I) (Triple Snowbird) (ERSS XXITL - TBCB),D/C,PGCIL,80,Central Sector
+166,Mar-2021,400,LILO of both Ckts. of Nabinagar-II - Gaya (Q) line at Chandauti (ERSS XXITL- TBCB),D/C,PGCIL,6,Central Sector
+167,Mar-2021,400,LILO of North Trichur - Cochin line at North Trichur HDVC Station (Q),D/C,PGCIL,1,Central Sector
+168,Mar-2021,400,Re-Conducting of Rangpo -New Siliguri line,D/C,PGCIL,220,Central Sector
+169,Mar-2021,400,Wardha - Aurangabad line (up-gradable on 1200 kV),D/C,PGCIL,696,Central Sector
+170,Mar-2021,320,Pugalur - North Trichur (Kerala) HVDC Bipole Link,HVDC,PGCIL,288,Central Sector
+171,Mar-2021,400,LILO Agra(South)-Fahtehabad(Agra) at Firozabad,D/C,UPPTCL,26,State Sector
+172,Mar-2021,400,LILO of Gorakhpur (PG) - Lucknow (PG) line Ckt.-IV at Basti,D/C,UPPTCL,60,State Sector
+173,Mar-2021,400,LILO of one ckt. of Satna (PGCIL) - Bina (PGCIL) at Sagar (GEC-I),DCDS,MPPTCL,50,State Sector
+174,Mar-2021,400,LILO of Somanahalli - Kolar SC line to Mylasandra (New Electric City),S/C,KPTCL,2,State Sector
+175,Mar-2021,400,Nagda (400kV) S/S - Ujjain (400kV) S/S (Ckt-II),DCDS,MPPTCL,53,State Sector
+176,Mar-2021,400,Nagda - Mandsaur (GEC-I),DCDS,MPPTCL,137,State Sector
+177,Mar-2021,400,Tanda (TPS) - Bhaukhari (Basti) line,D/C,UPPTCL,88,State Sector
+178,Mar-2021,400,Yurembam - Thoubal via Nambol,D/C,"ED, Manipur",90,State Sector
+179,Mar-2021,220,Akal- Jaisalmer-2 line (GEC-I),D/C,RVPNL,114,State Sector
+180,Mar-2021,220,Brahmapuram - Kaloor line,D/C,KSEB,23,State Sector
+181,Mar-2021,220,Chichali - Udaipura,S/C,MPPTCL,47,State Sector
+182,Mar-2021,220,Deroli Ahir - Narnaul,D/C,HVPNL,26,State Sector
+183,Mar-2021,220,Dichpally 400kV - Banswada 220kV,D/C,TSTRANSCO,168,State Sector
+184,Mar-2021,220,Dwarka - Budella,D/C,DTL,12,State Sector
+185,Mar-2021,220,HDVC Kolar - T. Gollahali (Thimmasandra) line,D/C,KPTCL,58,State Sector
+186,Mar-2021,220,Jammalamadugu - Chakrayapet,D/C,APTRANSCO,172,State Sector
+187,Mar-2021,220,Jammalamadugu - Tirumalayapalli,D/C,APTRANSCO,34,State Sector
+188,Mar-2021,220,Kalikiri - Kalikiri line,D/C,APTRANSCO,8,State Sector
+189,Mar-2021,220,Kamavarapukota - Nuziveedu,D/C,APTRANSCO,90,State Sector
+190,Mar-2021,220,Kudagi - Tapping point of NTPC (part of Kudagi-Vajramatti line),D/C,KPTCL,153,State Sector
+191,Mar-2021,220,Kumbhargaon - Krishnoor line (Ckt-I),D/C,MSETCL,16,State Sector
+192,Mar-2021,220,LILO of Arambag - Rishra at N. Chanditala,D/C,WBSETCL,31,State Sector
+193,Mar-2021,220,LILO of Baraut (220)- Shamli at Nirpura line,D/C,UPPTCL,26,State Sector
+194,Mar-2021,220,LILO of Bina - Gwalior at Pichhore,S/C,MPPTCL,1,State Sector
+195,Mar-2021,220,LILO of Both ckt. of Badod - Ujjain at Ujjain,DCDS,MPPTCL,24,State Sector
+196,Mar-2021,220,LILO of Both ckt Pulivendula - Hindupur at Gollapuram,D/C,APTRANSCO,156,State Sector
+197,Mar-2021,220,LILO of both ckts. Nagda - Ujjain at Ujjain,DCDS,MPPTCL,43,State Sector
+198,Mar-2021,220,LILO of Chikkodi - Ghataprabha at Mughalkod,D/C,KPTCL,12,State Sector
+199,Mar-2021,220,LILO of Chormar - Fathebad line at Hukmawali,S/C,HVPNL,41,State Sector
+200,Mar-2021,220,LILO of Kashipur - Pantnagar line at 220kV S/S Jafarpur,D/C,PTCUL,8,State Sector
+201,Mar-2021,220,LILO of Pandharpur - Malinagar line at 220 kV Bhalawani S/S (Ckt-II),D/C,MSETCL,20,State Sector
+202,Mar-2021,220,LILO of Pendurthy - Garividi at Garividi,D/C,APTRANSCO,120,State Sector
+203,Mar-2021,220,LILO of Podili - Nellore at Atmakur,D/C,APTRANSCO,80,State Sector
+204,Mar-2021,220,LILO of Rasra (220)- Gazipur at Rasra,D/C,UPPTCL,26,State Sector
+205,Mar-2021,220,LILO to Existing 220kV Podili - Nellore line at Prakasam District,M/C,APTRANSCO,20,State Sector
+206,Mar-2021,220,Pallikkara - Aluva line,D/C,KSEB,23,State Sector
+207,Mar-2021,220,Pithampur -Depalpur,DCDS,MPPTCL,75,State Sector
+208,Mar-2021,220,(PMDP - Kashmir) Extension of Mirbazar - Alusteng line upto New Wanpoh,D/C,JKPDD,8,State Sector
+209,Mar-2021,220,R.K. Puram- Ridge Valley Ckt-I,S/C,DTL,5,State Sector
+210,Mar-2021,220,R.K. Puram - Ridge Valley Ckt-II,S/C,DTL,5,State Sector
+211,Mar-2021,220,R.K. Puram-Trauma Centre Ckt-I,S/C,DTL,5,State Sector
+212,Mar-2021,220,R.K. Puram- Trauma Centre Ckt-II,S/C,DTL,5,State Sector
+213,Mar-2021,765,Agra (UP)-Greater Noida (WUPPTCL)(GTL-TBCB),S/C,APL,159,Private Sector
+214,Mar-2021,765,Fatehgarh PS/S - Bhadla (PG) (initially to be operated at 400 ,D/C,APL,292,Private Sector
+215,Mar-2021,765,Ghatampur TPS-Agra (UP) (GTL-TBCB),S/C,APL,229,
+216,Mar-2021,765,LILO of 765kV Anpara D - Unnao SC (Quad) line at Obra - CTPS,D/C,APL,17,
+217,Mar-2021,400,Roza - Badaun,D/C,APL,171,
+218,Mar-2021,220,LlLO of C.B.Ganj - Badaun at Badaun (OBTL-TBCB),S/C,APL,2,
+219,Mar-2021,220,LlLO of Chandausi - Badaun at Badaun (OBTL-TBCB),S/C,APL,37,
+220,Apr-2021,765,Ajmer (PG) - Phagi line,D/C,PGCIL,268,Central Sector
+221,Apr-2021,400,Darbhanga - Sitamarhi (New) line (Ckt-II) line,D/C,PGCIL,80,Central Sector
+222,Apr-2021,400,Sitamarhi (New) - Motihari line (Triple Snowbird) (ERSS XXITL-TBCB),D/C,PGCIL,171,Central Sector
+223,Apr-2021,220,2nd ckt stringing of 220 kV Valve - Jamde SCDC line,S/C,MSETCL,13,State Sector
+224,May-2021,400,New Mariani - Misa,D/C,PGCIL,2,Central Sector
+225,May-2021,400,LILO of 400 kV Aligarh-Sikandrabad at Harduaganj TPS Line,D/C,UPPTCL,61,State Sector
+226,May-2021,220,LILO of 220kV Gonda- Basti line at Bhaukhari,D/C,UPPTCL,26,State Sector
+227,May-2021,220,LILO of Joda-TTPS line at Telkoi,D/C,OPTCL,29,State Sector
+228,May-2021,220,LILO of onc Ckt. of 220kV Undi-Eluru (Gudivada) line to proposed S/S at Akiveedu in West Godavari District,S/C,APTRANSCO,3,State Sector
+229,May-2021,220,Maradam (from 400kV Maradam) - Pydibhimavaram line,D/C,APTRANSCO,46,State Sector
+230,Jun-2021,400,Jigmeling - Alipurdauar line (Q) (India Side),D/C,PGCIL,326,Central Sector
+231,Jun-2021,400,LILO of Sagardighi - Subhasgram line at Jeerat,S/C,PGCIL,2,Central Sector
+232,Jun-2021,220,Akkaram-Markook,D/C,TSTRANSCO,18,State Sector
+233,Jun-2021,220,Greater Noida (765) - Integrated township Gr. Noida line,D/C,UPPTCL,80,State Sector
+234,Jun-2021,220,LILO of Nirmal - Renzal at Mupkal,S/C,TSTRANSCO,1,State Sector
+235,Jun-2021,220,LILO of one Ckt. of Mamidipally - Shadnagar at Kothur S/S,D/C,TSTRANSCO,1,State Sector
+236,Jun-2021,220,LILO of one Ckt. of Shamshabad - Kethireddypalli (Manikonda) at Kothur S/S,D/C,TSTRANSCO,19,State Sector
+237,Jun-2021,220,Manuguru - BTPS,D/C,TSTRANSCO,46,State Sector
+238,Jun-2021,220,(PMDP - Jammu) LILO of Hiranagar - Bishnah at Jatwal Grid station,D/C,JKPDD,4,State Sector
+239,Jun-2021,220,Rajgarh (B) - Susner (Nalkheda),DCDS,MPPTCL,124,State Sector
+240,Jun-2021,220,Ramadugu - Rampur,D/C,TSTRANSCO,70,State Sector
+241,Jun-2021,220,Ujjain - Susner (Nalkheda) (GEC),DCDS,MPPTCL,160,State Sector
+256,Jul-2021,220,Julurupadu - Pedagopathi line,D/C,TSTRANSCO,90,State Sector
+257,Jul-2021,220,Kethireddypally (Manikonda) - Kankamamidi line,D/C,TSTRANSCO,9,State Sector
+258,Jul-2021,220,LILO of both Ckts. Durshed-Sirchilla line at Ramadugu,D/C,TSTRANSCO,48,State Sector
+259,Jul-2021,220,LILO of Ckt.-I Mainpuri (PG) - Neebkarori line at Farrukhabad,D/C,UPPTCL,16,State Sector
+260,Jul-2021,220,LILO of Dindi - Maheshwaram at Madugula,D/C,TSTRANSCO,6,State Sector
+261,Jul-2021,220,LILO of Hiranagar-Bishnah line at Samba,D/C,JKPDD,11,State Sector
+262,Jul-2021,220,LILO of Oglapur - Durshad at Huzurabad,D/C,TSTRANSCO,20,State Sector
+263,Jul-2021,220,LILO of Regumangadda - Gudipalligattu at Yelluru Water Grid s/s,D/C,TSTRANSCO,7,State Sector
+264,Jul-2021,220,LILO of RSS -Bheemgal Feeder at Rampur s/s,D/C,TSTRANSCO,2,State Sector
+265,Jul-2021,220,LILO of RSS -Nagaram at Ramagundam Fertillizers and Chemicals Limited (RFCL),D/C,TSTRANSCO,22,State Sector
+266,Jul-2021,220,LILO of RSS -Nrimal at Jagityal line,D/C,TSTRANSCO,3,State Sector
+267,Jul-2021,220,LILO of Shamshabad-Yeddumailaram line and Shadnagar-Shankerpally line to proposed at Kethireddypally,D/C,TSTRANSCO,14,State Sector
+268,Jul-2021,220,LILO of Thein-Hiranagar at Kathua-II (Ghatti),D/C,JKPDD,5,State Sector
+269,Jul-2021,220,LILO of Vemnur-Nirmal to 220kv Jagityal s/s,D/C,TSTRANSCO,3,State Sector
+270,Jul-2021,220,LILO of Yelluru - Gudipalligattu at Gouridevipally,S/C,TSTRANSCO,4,State Sector
+271,Jul-2021,220,Maheshwaram 400/220 kV SS to Fabcity 220kV SS,D/C,TSTRANSCO,47,State Sector
+272,Jul-2021,220,Malayammma - Kunnamangalam,M/C,KSEB,15,State Sector
+273,Jul-2021,220,Mitha - Katosan TSS line,D/C,GETCO,33,State Sector
+274,Jul-2021,220,Narketpally - Udaya Samudram (LIS),D/C,TSTRANSCO,18,State Sector
+275,Jul-2021,220,Narsapur -Meenajipet line,D/C,TSTRANSCO,48,State Sector
+276,Jul-2021,220,Nirmal -Renzal line,D/C,TSTRANSCO,136,State Sector
+277,Jul-2021,220,Nirmal s/s - Existing 220/132kV Nirmal s/s,D/C,TSTRANSCO,9,State Sector
+278,Jul-2021,220,Radhanesda - Vav (Khimanvas) line with AL-59 Conductor,D/C,GETCO,73,State Sector
+279,Jul-2021,220,Rampur -Rajeshwar Rao Peta s/s,D/C,TSTRANSCO,72,State Sector
+280,Jul-2021,220,Shahjahanpur PG (400)- Azizpur line,D/C,UPPTCL,49,State Sector
+281,Jul-2021,220,Sitapuram -Huzurnagar line,D/C,TSTRANSCO,59,State Sector
+282,Jul-2021,220,Sundilla - Annaram line,D/C,TSTRANSCO,58,State Sector
+283,Jul-2021,220,Sundilla - Medigadda line,D/C,TSTRANSCO,148,State Sector
+284,Jul-2021,400,LILO of both ckt. of Ranchi - Maithon-RB line at Dhanbad (NKTL-TBCB),D/C,APL,5,Private Sector
+242,Jul-2021,765,Vindhyachal - Varansai line,D/C,PGCIL,379,Central Sector
+243,Jul-2021,400,Edayarpalayam (TANTRANSCO)- Udumulpet line (Q),D/C,PGCIL,94,Central Sector
+244,Jul-2021,400,Palatana - Surajmaninagar,D/C,PGCIL,24,Central Sector
+245,Jul-2021,400,Pugalur HVDC-Edayarpalayam (TANTRANSCO) line (Q),D/C,PGCIL,105,Central Sector
+246,Jul-2021,400,LILO of Gorakhpur (PG) - Lucknow (PG) line Ckt.-III at Basti,D/C,UPPTCL,47,State Sector
+247,Jul-2021,400,LILO of Ibrahim Patti (PGCIL) - Kasaramau (Mau) at Rasra,D/C,UPPTCL,74,State Sector
+248,Jul-2021,230,Dharmapuri (Palavadi) - Udanapally 230 kV S,D/C,TANTRANSCO,115,State Sector
+249,Jul-2021,230,Thiruvalam - Singarapet Feeder (Loc1 to 4),D/C,TANTRANSCO,2,State Sector
+250,Jul-2021,220,2nd ckt. Stringing on existing line from Malyalpally - Jagityal line,S/C,TSTRANSCO,58,State Sector
+251,Jul-2021,220,400/220 kV Janagaon s/s -220/132/33 Janagaon s/s,D/C,TSTRANSCO,7,State Sector
+252,Jul-2021,220,Asupaka - Aswaroapet line,D/C,TSTRANSCO,40,State Sector
+253,Jul-2021,220,Dhanonda- Deroli Ahir,D/C,HVPNL,57,State Sector
+254,Jul-2021,220,Dindi - Nagarkurnool,S/C,TSTRANSCO,79,State Sector
+255,Jul-2021,220,Gajwel - Akkaram (TMDC),D/C,TSTRANSCO,14,State Sector
+285,Aug-2021,765,Fatehgarh-II PS - Bhadla-II section (PGCIL-RTM),D/C,PGCIL,374,Central Sector
+286,Aug-2021,220,Ramgarh - Ranchi (PG) (Bypassing Gola SS) (Balance portion),S/C,DVC,95,Central Sector
+287,Aug-2021,400,LILO of ckt-II of Kursi Rd PG- Unnao line at Hardoi Rd (Jehata),D/C,UPPTCL,25,State Sector
+288,Aug-2021,400,LILO of ckt-I of 400 kV DC Kursi Rd PG- Unnao line at Hardoi Rd(Jehata),D/C,UPPTCL,34,State Sector
+289,Aug-2021,400,Telangana STPP - Narsapur,D/C,TSTRANSCO,354,State Sector
+290,Aug-2021,400,Telangana STPP - Ramadugu,D/C,TSTRANSCO,104,State Sector
+291,Aug-2021,220,LILO of 220 kV Uran- JNPT MUSS line at 220 kV JNPT SEZ S/S,S/C,MSETCL,5,State Sector
+292,Aug-2021,220,LILO of one Ckt. of Budhipadar-Basundhara at Lephripara s/s,D/C,OPTCL,9,State Sector
+293,Aug-2021,220,LILO of one ckt of Rengali-Barkote line at Deogarh,S/C,OPTCL,25,State Sector
+294,Aug-2021,220,LILO of Sector- 72 -Ranglarajpur line at Sohna Road,D/C,HVPNL,9,State Sector
+295,Aug-2021,220,LILO of Vadavi - Chhatral line at Santej S/s,D/C,GETCO,51,State Sector
+296,Aug-2021,220,Melasandra (New elctronic city) - Yerandanahalli,M/C,KPTCL,27,State Sector
+297,Aug-2021,220,Mylasandra - Somanahalli-Naganthapura-HSR Layout,M/C,KPTCL,20,State Sector
+298,Aug-2021,220,Nirmal - Indravelly (Utnoor) proposed line at Adilabad District,D/C,TSTRANSCO,199,State Sector
+299,Aug-2021,220,Second Ckt. stringing Padegaon - Sawangi line,S/C on D/C,MSETCL,15,State Sector
+300,Aug-2021,220,Solapur (PG) - Narangwadi,D/C,MSETCL,148,State Sector
+301,Aug-2021,765,Bikaner (PG) - Khetri S/S,D/C,APL,481,Private Sector
+302,Sep-2021,765,Khetri - Jhatikara line (CKt-I),D/C,PGCIL,146,Central Sector
+303,Sep-2021,765,Medinipur - Jeerat (New) (PM-JTL-TBCB),D/C,PGCIL,338,Central Sector
+304,Sep-2021,400,Bhadla-II PS-Bhadla (PG) line (CKt-I),D/C,PGCIL,48,Central Sector
+305,Sep-2021,400,Jeerat (New) - Jeerat (WBSETCL) (PM-JTL-TBCB),D/C,PGCIL,51,Central Sector
+306,Sep-2021,400,Khetri - Sikar (PG) line,D/C,PGCIL,156,Central Sector
+307,Sep-2021,400,LILO of both Ckt. of Kishanganj - Patna 400kV (Q) line at Saharsa (Ckt-I),D/C,PGCIL,75,Central Sector
+308,Sep-2021,230,LILO the existing 230 kV Alundur - Thanjavur at the proposed Thuvankudy,M/C,TANTRANSCO,30,State Sector
+309,Sep-2021,220,Chhatarpur - Tikamgarh 220 KV Line,DCDS,MPPTCL,92,State Sector
+310,Oct-2021,765,Khetri - Jhatikara line (Ckt-II),D/C,PGCIL,146,Central Sector
+311,Oct-2021,765,LILO of both Ckt. 765kV D/C (op. at 400kV) Fatehgarh (TBCB) - Bhadla (PG) at Fateharh-II PS (Loop in of Ckt-I),D/C,PGCIL,40,Central Sector
+312,Oct-2021,765,LILO of both Ckts. of Ajmer - Bikaner line at Bhadla-II PS (PGCIL-RTM),D/C,PGCIL,527,Central Sector
+313,Oct-2021,400,LILO of both Ckt. of Kishanganj - Patna (Q) line at Saharsa (CKt-II),D/C,PGCIL,75,Central Sector
+314,Oct-2021,400,Pugalur HVDC - Thiruvalam line (Q),D/C,PGCIL,782,Central Sector
+315,Oct-2021,220,Chatra - Latehar,D/C,JUSNL,218,State Sector
+316,Oct-2021,220,Halvad - Sadla line with AL-59 conductor,D/C,GETCO,76,State Sector
+317,Oct-2021,220,Julwaniya - Kukshi line,DCDS,MPPTCL,133,State Sector
+318,Oct-2021,220,Kattakkada-Vizhinjam,D/C,KSEB,39,State Sector
+319,Oct-2021,220,LILO of 220 kV D/C Wagoora-Mirbazar line at Lassipora,D/C,JKPDD,10,State Sector
+320,Oct-2021,220,LILO of both Ckts. Kansari -Deodar line at Bhildi S/S M/C Tower,M/C,GETCO,10,State Sector
+321,Oct-2021,220,Raebareli-Amethi Line,D/C,UPPTCL,89,State Sector
+322,Nov-2021,765,LILO of both Ckts. of (op.at 400 kV) Fatehgarh (TBCB)- Bhadla (PG) at Fatehgarh-II PS (Loop in of Ckt-II),D/C,PGCIL,39,Central Sector
+323,Nov-2021,765,Anpara D - Unnao,S/C,UPPTCL,426,State Sector
+324,Nov-2021,400,Julurupadu - Kamalapuram line,D/C,TSTRANSCO,79,State Sector
+325,Nov-2021,400,LILO of Mundra - Hadala line at Halvad,D/C,GETCO,89,State Sector
+326,Nov-2021,220,LILO Firozabad (400) (TBCB) - Agra PG (765) line at Tundla,D/C,UPPTCL,1,State Sector
+327,Nov-2021,220,LILO of Shahjahanpur - Nighasan line at Gola (220),D/C,UPPTCL,7,State Sector
+328,Nov-2021,220,Sitamarhi(New) - Motipur,D/C,BSPTCL,140,State Sector
+329,Nov-2021,220,TTPS - Govindpur TL,D/C,JUSNL,181,State Sector
+330,Dec-2021,400,Bhadla-II PS-Bhadla (PG) (Twin HTLS) (Ckt.-II) (PGCIL-RTM),D/C,PGCIL,49,Central Sector
+331,Dec-2021,400,Kahalgaon - Durgapur line (Bypassing of Farakka-Kahalgaon (Ckt.-3 and 4 and Farakka -Durgapur,D/C,PGCIL,6,Central Sector
+332,Dec-2021,220,Bajoli Holi - Lahal,D/C,HPPTCL,36,State Sector
+333,Dec-2021,220,LILO of 220kV Gachibowli - Miyapur line at Rayadurg GIS (UG Cable),D/C,TSTRANSCO,7,State Sector
+334,Dec-2021,220,LILO of 220kV Gachibowli - Shapurnagar line at Rayadurg GIS (UG Cable),D/C,TSTRANSCO,9,State Sector
+335,Dec-2021,220,LILO of existing Hiriyur -Gowribidanur line to the proposed 220kV at Sira S/S,D/C,KPTCL,25,State Sector
+336,Dec-2021,765,Ghatampur TPS-Hapur (WUPPTCL) line,S/C,APL,411,Private Sector
+337,Dec-2021,765,Khandwa Pool - Dhule Line (KTL - TBCB),D/C,SGL,383,Private Sector
+338,Jan-2022,400,Kethireddypally-Rayadurg (GIS),D/C,TSTRANSCO,83,State Sector
+339,Jan-2022,400,LILO of both Ckts. of Lonikand-II -Girvali line at Karjat S/S,M/C,MSETCL,25,State Sector
+340,Jan-2022,400,Patratu (JUSNL)- Bero (New Ranchi),D/C,JUSNL,98,State Sector
+341,Jan-2022,400,Soja - Zerda line (Pkg-1) with Twin AL-59 conductor,D/C,GETCO,134,State Sector
+342,Jan-2022,220,LILO of 220kV Fatehabad (PGCIL) - Chormar line with (MC at 220kV Hukmawali S/S (Loop in Portion),D/C,HVPNL,41,State Sector
+343,Jan-2022,220,LILO of 220kV Nanauta -Shamli line at Shamli (400) (GIS),D/C,UPPTCL,12,State Sector
+344,Jan-2022,220,LILO of existing 220kV S/C Lingpur-Kushatagi and 220kV Lingapur-Sindhanur lines to the proposed 220/110/11kV Gangavathi (Sulekal) s/s,M/C,KPTCL,52,State Sector
+345,Jan-2022,220,LILO of Sasaram - Sahupuri at Karmnasa (New),D/C,BSPTCL,1,State Sector
+346,Jan-2022,220,Patratu - Ratu (Burmu ) line,D/C,JUSNL,63,State Sector
+347,Jan-2022,220,Satgachia - Rishra,D/C,WBSETCL,15,State Sector
+348,Jan-2022,220,Sitamarhi (New) - Raxaul (New) (Twin Moose),D/C,BSPTCL,177,State Sector
