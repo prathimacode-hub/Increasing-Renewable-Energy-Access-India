@@ -62,15 +62,15 @@ folium.LayerControl().add_to(m2)
 
 df = pd.read_csv('solar_stations.csv')
 
-df['start_latitude'] = pd.to_numeric(df.lon, errors='coerce')
-df['start_longitude'] = pd.to_numeric(df.lat, errors='coerce')# drop rows with missing lat and lon
-df['end_latitude'] = pd.to_numeric(df.lon, errors='coerce')
-df['end_longitude'] = pd.to_numeric(df.lat, errors='coerce')
+df['start_latitude'] = pd.to_numeric(df.start_latitude, errors='coerce')
+df['start_longitude'] = pd.to_numeric(df.start_longitude, errors='coerce')# drop rows with missing lat and lon
+df['end_latitude'] = pd.to_numeric(df.end_latitude, errors='coerce')
+df['end_longitude'] = pd.to_numeric(df.end_longitude, errors='coerce')
 df.dropna(subset=['start_latitude', 'start_longitude', 'end_latitude', 'end_longitude'], inplace=True)# convert from string to int
 
 from streamlit_keplergl import keplergl_static
 from keplergl import KeplerGl
 
 map_1 = KeplerGl(height=800)
-map_1.add_data(data=df, name="solarstations")
+map_1.add_data(data=df, name="solar-stations")
 keplergl_static(map_1)
