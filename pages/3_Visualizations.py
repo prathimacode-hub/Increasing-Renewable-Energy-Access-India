@@ -69,12 +69,17 @@ df['longitude'] = pd.to_numeric(df.longitude, errors='coerce')# drop rows with m
 
 df.dropna(subset=['latitude', 'longitude'], inplace=True)# convert from string to int
 
-fig.update_geos(
-    # fitbounds="locations",
-    center_lon=64.4139099,
-    center_lat=20.0504188,
-    visible=False,
-)
+# fig.update_geos(
+#     # fitbounds="locations",
+#     center_lon=64.4139099,
+#     center_lat=20.0504188,
+#     visible=False,
+# )
+
+fig.update_geos(showcountries=False, showcoastlines=False,
+                showland=False, fitbounds="locations",
+                subunitcolor='white')
+fig.show()
 
 from streamlit_keplergl import keplergl_static
 from keplergl import KeplerGl
