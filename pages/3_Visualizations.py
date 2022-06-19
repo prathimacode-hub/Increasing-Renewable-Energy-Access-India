@@ -40,8 +40,8 @@ from branca.element import Figure
 #from streamlit_folium import folium_static
 from geopy.geocoders import Nominatim
 
-from turfpy.measurement import bbox
-from functools import reduce
+#from turfpy.measurement import bbox
+#from functools import reduce
 
 PAGE_TITLE = "Visualizations"
 
