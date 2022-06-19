@@ -76,10 +76,10 @@ df.dropna(subset=['latitude', 'longitude'], inplace=True)# convert from string t
 #     visible=False,
 # )
 
-fig.update_geos(showcountries=False, showcoastlines=False,
-                showland=False, fitbounds="locations",
-                subunitcolor='white')
-fig.show()
+# fig.update_geos(showcountries=False, showcoastlines=False,
+#                 showland=False, fitbounds="locations",
+#                 subunitcolor='white')
+# fig.show()
 
 from streamlit_keplergl import keplergl_static
 from keplergl import KeplerGl
