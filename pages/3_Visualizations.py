@@ -58,7 +58,7 @@ folium.TileLayer('cartodbpositron').add_to(m2)
 folium.TileLayer('cartodbdark_matter').add_to(m2)
 folium.LayerControl().add_to(m2)
 
-df = pd.read_csv('solar_stations.csv')
+df = pd.read_csv('energy_map_of_india.csv')
 
 df['start_latitude'] = pd.to_numeric(df.start_latitude, errors='coerce')
 df['start_longitude'] = pd.to_numeric(df.start_longitude, errors='coerce')# drop rows with missing lat and lon
