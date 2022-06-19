@@ -25,7 +25,7 @@ import plotly.offline as pyo
 import requests
 import seaborn as sns
 #import streamlit as st
-import psycopg2
+#import psycopg2
 
 from folium.features import DivIcon
 from googletrans import Translator
