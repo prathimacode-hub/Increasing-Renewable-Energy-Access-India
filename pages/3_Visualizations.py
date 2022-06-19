@@ -51,7 +51,7 @@ st.sidebar.header("Know Our Renewable Energy Statistics")
 st.subheader("Generalized Statistics Of Renewable Energy Access")
 
 fig2=Figure(width=550,height=350)
-m2=folium.Map(location=[36.2422994, 113.7487596], zoom_start=3)
+m2=folium.Map(location=[20.0504188, 64.4139099], zoom_start=4)
 fig2.add_child(m2)
 folium.TileLayer('Stamen Terrain').add_to(m2)
 folium.TileLayer('Stamen Toner').add_to(m2)
