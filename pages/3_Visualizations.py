@@ -49,7 +49,8 @@ st.subheader("Mapping Of Suitable Locations")
 fig2=Figure(width=550,height=350)
 #m2=folium.Map(location=[20.593684, 78.96288], zoom_start=4)
 #m2=folium.Map(location=[28.7183, 77.2778], zoom_start=3)
-m2=folium.Map(location=[28.580874, 77.143854], zoom_start=3)
+#m2=folium.Map(location=[28.580874, 77.143854], zoom_start=3)
+m2=folium.Map(location=[20.0504188, 64.4139099], zoom_start=3)
 fig2.add_child(m2)
 folium.TileLayer('Stamen Terrain').add_to(m2)
 folium.TileLayer('Stamen Toner').add_to(m2)
@@ -64,6 +65,13 @@ df['latitude'] = pd.to_numeric(df.latitude, errors='coerce')
 df['longitude'] = pd.to_numeric(df.longitude, errors='coerce')# drop rows with missing lat and lon
 
 df.dropna(subset=['latitude', 'longitude'], inplace=True)# convert from string to int
+
+fig.update_geos(
+    # fitbounds="locations",
+    center_lon=64.4139099,
+    center_lat=20.0504188,
+    visible=False,
+)
 
 from streamlit_keplergl import keplergl_static
 from keplergl import KeplerGl
