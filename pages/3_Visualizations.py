@@ -114,10 +114,12 @@ folium.LayerControl().add_to(m2)
 df = pd.read_csv('Solar_GHI.csv') #global horizontal irradiance
 #df = pd.read_csv('Solar_DNI.csv') #direct normal irradiance
 
-df['LONG'] = pd.to_numeric(df.longitude, errors='coerce')
-df['LAT'] = pd.to_numeric(df.latitude, errors='coerce')# drop rows with missing lat and lon
+df.rename(columns={'LONG': 'longitude', 'LAT': 'Latitude'}, inplace=True)
 
-df.dropna(subset=['LAT', 'LONG'], inplace=True)# convert from string to int
+df['latitude'] = pd.to_numeric(df.latitude, errors='coerce')
+df['longitude'] = pd.to_numeric(df.longitude, errors='coerce')# drop rows with missing lat and lon
+
+df.dropna(subset=['latitude', 'longitude'], inplace=True)# convert from string to int
 
 # fig.update_geos(
 #     # fitbounds="locations",
