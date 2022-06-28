@@ -93,3 +93,47 @@ st.sidebar.header("Know Our Renewable Energy Statistics")
 
 st.subheader("Generalized Statistics Of Renewable Energy Access")
 
+
+
+
+st.sidebar.header("Global Horizontal Radiance Mapping Locations")
+
+st.subheader("Mapping Of Global Horizontal Radiance Locations")
+
+fig2=Figure(width=550,height=350)
+m2=folium.Map(location=[20.5937, 78.9629], zoom_start=3)
+#m2=folium.Map(location=[20.0504188, 64.4139099], zoom_start=3)
+fig2.add_child(m2)
+folium.TileLayer('Stamen Terrain').add_to(m2)
+folium.TileLayer('Stamen Toner').add_to(m2)
+folium.TileLayer('Stamen Water Color').add_to(m2)
+folium.TileLayer('cartodbpositron').add_to(m2)
+folium.TileLayer('cartodbdark_matter').add_to(m2)
+folium.LayerControl().add_to(m2)
+
+df = pd.read_csv('Solar_GHI.csv')
+
+df['LONG,N,7,2'] = pd.to_numeric(df.LONG,N,7,2, errors='coerce')
+df['LAT,N,7,2'] = pd.to_numeric(df.LAT,N,7,2, errors='coerce')# drop rows with missing lat and lon
+
+df.dropna(subset=['LAT,N,7,2', 'LONG,N,7,2'], inplace=True)# convert from string to int
+
+# fig.update_geos(
+#     # fitbounds="locations",
+#     center_lon=64.4139099,
+#     center_lat=20.0504188,
+#     visible=False,
+# )
+
+# fig.update_geos(showcountries=False, showcoastlines=False,
+#                 showland=False, fitbounds="locations",
+#                 subunitcolor='white')
+# fig.show()
+
+from streamlit_keplergl import keplergl_static
+from keplergl import KeplerGl
+
+map_1 = KeplerGl(height=800)
+map_1.add_data(data=df, name="global-horizontal-radiance-map-of-india")
+keplergl_static(map_1)
+
