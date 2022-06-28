@@ -112,7 +112,7 @@ folium.TileLayer('cartodbdark_matter').add_to(m2)
 folium.LayerControl().add_to(m2)
 
 df = pd.read_csv('Solar_GHI.csv') #global horizontal irradiance
-df = pd.read_csv('Solar_DNI.csv') #direct normal irradiance
+#df = pd.read_csv('Solar_DNI.csv') #direct normal irradiance
 
 df['LONG'] = pd.to_numeric(df.LONG, errors='coerce')
 df['LAT'] = pd.to_numeric(df.LAT, errors='coerce')# drop rows with missing lat and lon
