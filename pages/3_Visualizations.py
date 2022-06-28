@@ -101,8 +101,8 @@ st.sidebar.header("Radiance Mapping Locations")
 st.subheader("Mapping Of Global Horizontal & Direct Normal Radiance Locations")
 
 fig2=Figure(width=550,height=350)
-m2=folium.Map(location=[20.5937, 78.9629], zoom_start=3)
-#m2=folium.Map(location=[20.0504188, 64.4139099], zoom_start=3)
+#m2=folium.Map(location=[20.5937, 78.9629], zoom_start=3)
+m2=folium.Map(location=[20.0504188, 64.4139099], zoom_start=3)
 fig2.add_child(m2)
 folium.TileLayer('Stamen Terrain').add_to(m2)
 folium.TileLayer('Stamen Toner').add_to(m2)
@@ -112,7 +112,7 @@ folium.TileLayer('cartodbdark_matter').add_to(m2)
 folium.LayerControl().add_to(m2)
 
 df = pd.read_csv('Solar_GHI.csv') #global horizontal irradiance
-#df = pd.read_csv('Solar_DNI.csv') #direct normal irradiance
+df = pd.read_csv('Solar_DNI.csv') #direct normal irradiance
 
 df.rename(columns={'LONG': 'longitude', 'LAT': 'Latitude'}, inplace=True)
 
