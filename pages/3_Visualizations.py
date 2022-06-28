@@ -192,6 +192,6 @@ folium.TileLayer('cartodbpositron').add_to(m2)
 folium.TileLayer('cartodbdark_matter').add_to(m2)
 folium.LayerControl().add_to(m2)
 
-return folium_static(m)
+#return folium_static(m)
 
 
