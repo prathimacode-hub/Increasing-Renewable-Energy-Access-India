@@ -114,8 +114,6 @@ folium.LayerControl().add_to(m2)
 df = pd.read_csv('Solar_GHI.csv') #global horizontal irradiance
 df = pd.read_csv('Solar_DNI.csv') #direct normal irradiance
 
-df.rename(columns={'LONG': 'longitude', 'LAT': 'Latitude'}, inplace=True)
-
 df['latitude'] = pd.to_numeric(df.latitude, errors='coerce')
 df['longitude'] = pd.to_numeric(df.longitude, errors='coerce')# drop rows with missing lat and lon
 
