@@ -101,6 +101,8 @@ df = pd.read_csv('energy_map_of_india.csv')
 df['latitude'] = pd.to_numeric(df.latitude, errors='coerce')
 df['longitude'] = pd.to_numeric(df.longitude, errors='coerce')# drop rows with missing lat and lon
 
+midpoint = (np.average(df['latitude']), np.average(df['longitude']))
+
 df.dropna(subset=['latitude', 'longitude'], inplace=True)# convert from string to int
 
 # fig.update_geos(
