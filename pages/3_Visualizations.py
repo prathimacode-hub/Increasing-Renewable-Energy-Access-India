@@ -96,9 +96,9 @@ st.subheader("Generalized Statistics Of Renewable Energy Access")
 
 
 
-st.sidebar.header("Global Horizontal Radiance Mapping Locations")
+st.sidebar.header("Radiance Mapping Locations")
 
-st.subheader("Mapping Of Global Horizontal Radiance Locations")
+st.subheader("Mapping Of Global Horizontal & Direct Normal Radiance Locations")
 
 fig2=Figure(width=550,height=350)
 m2=folium.Map(location=[20.5937, 78.9629], zoom_start=3)
@@ -111,12 +111,13 @@ folium.TileLayer('cartodbpositron').add_to(m2)
 folium.TileLayer('cartodbdark_matter').add_to(m2)
 folium.LayerControl().add_to(m2)
 
-df = pd.read_csv('Solar_GHI.csv')
+df = pd.read_csv('Solar_GHI.csv') #global horizontal irradiance
+df = pd.read_csv('Solar_DNI.csv') #direct normal irradiance
 
-df['LONG,N,7,2'] = pd.to_numeric(df.LONG,N,7,2, errors='coerce')
-df['LAT,N,7,2'] = pd.to_numeric(df.LAT,N,7,2, errors='coerce')# drop rows with missing lat and lon
+df['LONG'] = pd.to_numeric(df.LONG, errors='coerce')
+df['LAT'] = pd.to_numeric(df.LAT, errors='coerce')# drop rows with missing lat and lon
 
-df.dropna(subset=['LAT,N,7,2', 'LONG,N,7,2'], inplace=True)# convert from string to int
+df.dropna(subset=['LAT', 'LONG'], inplace=True)# convert from string to int
 
 # fig.update_geos(
 #     # fitbounds="locations",
@@ -134,6 +135,6 @@ from streamlit_keplergl import keplergl_static
 from keplergl import KeplerGl
 
 map_1 = KeplerGl(height=800)
-map_1.add_data(data=df, name="global-horizontal-radiance-map-of-india")
+map_1.add_data(data=df, name="radiance-map-of-india")
 keplergl_static(map_1)
 
