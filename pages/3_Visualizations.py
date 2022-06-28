@@ -164,3 +164,34 @@ keplergl_static(map_1)
 st.sidebar.header("Know Our Renewable Energy Statistics")
 
 st.subheader("Generalized Statistics Of Renewable Energy Access")
+
+
+
+
+
+
+st.sidebar.header("Know Our Renewable Energy Statistics")
+
+st.subheader("Generalized Statistics Of Renewable Energy Access")
+
+INDIA_PROVINCES_URL = 'https://raw.githubusercontent.com/Subhash9325/GeoJson-Data-of-Indian-States/master/Indian_States.geojson'
+
+SOLAR_GHI_PATH = Path('Solar_GHI.csv')
+
+SOLAR_DNI_PATH = Path('Solar_DNI.csv')
+
+fig2=Figure(width=550,height=350)
+
+m = folium.Map(width=500,height=500,location=[20.0504188, 64.4139099], zoom_start=5)
+
+fig2.add_child(m2)
+folium.TileLayer('Stamen Terrain').add_to(m2)
+folium.TileLayer('Stamen Toner').add_to(m2)
+folium.TileLayer('Stamen Water Color').add_to(m2)
+folium.TileLayer('cartodbpositron').add_to(m2)
+folium.TileLayer('cartodbdark_matter').add_to(m2)
+folium.LayerControl().add_to(m2)
+
+ return folium_static(m)
+
+
