@@ -9,23 +9,16 @@ from streamlit_folium import folium_static
 
 #import altair as alt
 import datetime
-#import folium
-#import geopandas as gpd
 import geopy
-#import json
-#import base64
+import json
 import matplotlib.pyplot as plt
 import networkx as nx
 import numpy as np
 import osmnx as ox
-#import pandas as pd
-#import plotly_express as px
 import plotly.io as pio
 import plotly.offline as pyo
 import requests
 import seaborn as sns
-#import streamlit as st
-#import psycopg2
 
 from folium.features import DivIcon
 from googletrans import Translator
@@ -33,11 +26,9 @@ from PIL import Image
 from shapely.geometry import Point, LineString
 from spacy import displacy
 from spacy_streamlit import visualize_ner
-#from streamlit_folium import folium_static
 from folium.plugins import MarkerCluster
 
 from branca.element import Figure
-#from streamlit_folium import folium_static
 from geopy.geocoders import Nominatim
 
 #from turfpy.measurement import bbox
