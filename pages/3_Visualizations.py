@@ -38,7 +38,7 @@ PAGE_TITLE = "Visualizations"
 
 st.sidebar.header("Radiance Mapping Locations")
 
-st.subheader("Mapping Of Global Horizontal & Direct Normal Radiance Locations")
+st.subheader("Mapping Of Global Horizontal Radiance Locations")
 
 fig2=Figure(width=550,height=350)
 
@@ -52,6 +52,32 @@ folium.TileLayer('cartodbdark_matter').add_to(m2)
 folium.LayerControl().add_to(m2)
 
 df = pd.read_csv('Solar_GHI.csv') #global horizontal irradiance
+
+df['latitude'] = pd.to_numeric(df.latitude, errors='coerce')
+df['longitude'] = pd.to_numeric(df.longitude, errors='coerce')# drop rows with missing lat and lon
+
+df.dropna(subset=['latitude', 'longitude'], inplace=True)# convert from string to int
+
+from streamlit_keplergl import keplergl_static
+from keplergl import KeplerGl
+
+map_1 = KeplerGl(height=800)
+map_1.add_data(data=df, name="global-horizontal-radiance-map-of-india")
+keplergl_static(map_1)
+
+st.subheader("Mapping Of Direct Normal Radiance Locations")
+
+fig2=Figure(width=550,height=350)
+
+m2=folium.Map(location=[20.0504188, 64.4139099], zoom_start=3)
+fig2.add_child(m2)
+folium.TileLayer('Stamen Terrain').add_to(m2)
+folium.TileLayer('Stamen Toner').add_to(m2)
+folium.TileLayer('Stamen Water Color').add_to(m2)
+folium.TileLayer('cartodbpositron').add_to(m2)
+folium.TileLayer('cartodbdark_matter').add_to(m2)
+folium.LayerControl().add_to(m2)
+
 df = pd.read_csv('Solar_DNI.csv') #direct normal irradiance
 
 df['latitude'] = pd.to_numeric(df.latitude, errors='coerce')
@@ -63,9 +89,8 @@ from streamlit_keplergl import keplergl_static
 from keplergl import KeplerGl
 
 map_1 = KeplerGl(height=800)
-map_1.add_data(data=df, name="radiance-map-of-india")
+map_1.add_data(data=df, name="diect-normal-radiance-map-of-india")
 keplergl_static(map_1)
-
 
 
 
