@@ -38,7 +38,7 @@ PAGE_TITLE = "Visualizations"
 
 st.sidebar.header("Radiance Mapping Locations")
 
-st.subheader("Mapping Of Global Horizontal Radiance Locations")
+st.subheader("Mapping Of Global Horizontal Irradiance Locations")
 
 fig2=Figure(width=550,height=350)
 
@@ -62,10 +62,10 @@ from streamlit_keplergl import keplergl_static
 from keplergl import KeplerGl
 
 map_1 = KeplerGl(height=800)
-map_1.add_data(data=df, name="global-horizontal-radiance-map-of-india")
+map_1.add_data(data=df, name="global-horizontal-irradiance-map-of-india")
 keplergl_static(map_1)
 
-st.subheader("Mapping Of Direct Normal Radiance Locations")
+st.subheader("Mapping Of Direct Normal Irradiance Locations")
 
 fig2=Figure(width=550,height=350)
 
@@ -89,7 +89,7 @@ from streamlit_keplergl import keplergl_static
 from keplergl import KeplerGl
 
 map_1 = KeplerGl(height=800)
-map_1.add_data(data=df, name="diect-normal-radiance-map-of-india")
+map_1.add_data(data=df, name="diect-normal-irradiance-map-of-india")
 keplergl_static(map_1)
 
 
