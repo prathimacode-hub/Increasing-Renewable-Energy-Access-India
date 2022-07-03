@@ -36,7 +36,7 @@ from geopy.geocoders import Nominatim
 
 PAGE_TITLE = "Visualizations"
 
-st.sidebar.header("Radiance Mapping Locations")
+st.sidebar.header("Visualizations")
 
 st.subheader("Mapping Of Global Horizontal Irradiance Locations")
 
@@ -92,12 +92,7 @@ map_1 = KeplerGl(height=800)
 map_1.add_data(data=df, name="diect-normal-irradiance-map-of-india")
 keplergl_static(map_1)
 
-
-
-
-st.sidebar.header("Energy Map Of India")
-
-st.subheader("Mapping Of Energy Locations")
+st.subheader("Energy Map Of India")
 
 fig2=Figure(width=550,height=350)
 #m2=folium.Map(location=[20.593684, 78.96288], zoom_start=4)
@@ -141,12 +136,7 @@ map_1 = KeplerGl(height=800)
 map_1.add_data(data=df, name="energy-map-of-india")
 keplergl_static(map_1)
 
-
-
-
-st.sidebar.header("Solar Station Locations in the World")
-
-st.subheader("Mapping Of Solar Stations")
+st.subheader("Solar Station Locations in India")
 
 fig2=Figure(width=550,height=350)
 
@@ -176,19 +166,7 @@ map_1 = KeplerGl(height=800)
 map_1.add_data(data=df, name="solar-stations-in-world")
 keplergl_static(map_1)
 
-
-st.sidebar.header("Know Our Renewable Energy Statistics")
-
-st.subheader("Generalized Statistics Of Renewable Energy Access")
-
-
-
-
-
-
-st.sidebar.header("Know Our Renewable Energy Statistics")
-
-st.subheader("Generalized Statistics Of Renewable Energy Access")
+st.subheader("Know Our Renewable Energy Statistics")
 
 INDIA_PROVINCES_URL = 'https://raw.githubusercontent.com/Subhash9325/GeoJson-Data-of-Indian-States/master/Indian_States.geojson'
 
