@@ -22,5 +22,6 @@ plotly-express==0.4.1
 googletrans==3.0.0
 spacy==3.2
 spacy-streamlit==1.0.2
-aspose-words==26.6.0
+aspose-words==22.6.0
+
 #psycopg2==2.7.6
