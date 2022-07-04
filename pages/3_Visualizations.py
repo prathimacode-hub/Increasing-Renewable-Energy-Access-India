@@ -30,6 +30,7 @@ from folium.plugins import MarkerCluster
 
 from branca.element import Figure
 from geopy.geocoders import Nominatim
+import aspose.words as aw
 
 #from turfpy.measurement import bbox
 #from functools import reduce
@@ -91,6 +92,31 @@ from keplergl import KeplerGl
 map_1 = KeplerGl(height=800)
 map_1.add_data(data=df, name="diect-normal-irradiance-map-of-india")
 keplergl_static(map_1)
+
+
+
+
+fileNames = [ "n27_e076_1arc_v3.tif", "n27_e077_1arc_v3.tif" ]
+
+doc = aw.Document()
+builder = aw.DocumentBuilder(doc)
+
+shapes = [builder.insert_image(fileName) for fileName in fileNames]
+
+# Calculate the maximum width and height and update page settings 
+# to crop the document to fit the size of the pictures.
+pageSetup = builder.page_setup
+pageSetup.page_width = max(shape.width for shape in shapes)
+pageSetup.page_height = sum(shape.height for shape in shapes)
+pageSetup.top_margin = 0;
+pageSetup.left_margin = 0;
+pageSetup.bottom_margin = 0;
+pageSetup.right_margin = 0;
+
+doc.save("Output.jpg");
+
+
+
 
 st.subheader("Energy Map Of India")
 
