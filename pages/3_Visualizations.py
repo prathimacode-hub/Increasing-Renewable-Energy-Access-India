@@ -66,6 +66,9 @@ map_1 = KeplerGl(height=800)
 map_1.add_data(data=df, name="global-horizontal-irradiance-map-of-india")
 keplergl_static(map_1)
 
+
+
+
 st.subheader("Mapping Of Direct Normal Irradiance Locations")
 
 fig2=Figure(width=550,height=350)
@@ -90,30 +93,60 @@ from streamlit_keplergl import keplergl_static
 from keplergl import KeplerGl
 
 map_1 = KeplerGl(height=800)
-map_1.add_data(data=df, name="diect-normal-irradiance-map-of-india")
+map_1.add_data(data=df, name="direct-normal-irradiance-map-of-india")
 keplergl_static(map_1)
 
 
 
 
-fileNames = [ "n27_e076_1arc_v3.tif", "n27_e077_1arc_v3.tif" ]
+st.subheader("Monthly Temperatures")
 
-doc = aw.Document()
-builder = aw.DocumentBuilder(doc)
+fig2=Figure(width=550,height=350)
 
-shapes = [builder.insert_image(fileName) for fileName in fileNames]
+m2=folium.Map(location=[20.0504188, 64.4139099], zoom_start=3)
+fig2.add_child(m2)
+folium.TileLayer('Stamen Terrain').add_to(m2)
+folium.TileLayer('Stamen Toner').add_to(m2)
+folium.TileLayer('Stamen Water Color').add_to(m2)
+folium.TileLayer('cartodbpositron').add_to(m2)
+folium.TileLayer('cartodbdark_matter').add_to(m2)
+folium.LayerControl().add_to(m2)
 
-# Calculate the maximum width and height and update page settings 
-# to crop the document to fit the size of the pictures.
-pageSetup = builder.page_setup
-pageSetup.page_width = max(shape.width for shape in shapes)
-pageSetup.page_height = sum(shape.height for shape in shapes)
-pageSetup.top_margin = 0;
-pageSetup.left_margin = 0;
-pageSetup.bottom_margin = 0;
-pageSetup.right_margin = 0;
+df = pd.read_csv('solar.csv') #direct normal irradiance
 
-doc.save("Output.jpg");
+df['latitude'] = pd.to_numeric(df.latitude, errors='coerce')
+df['longitude'] = pd.to_numeric(df.longitude, errors='coerce')# drop rows with missing lat and lon
+
+df.dropna(subset=['latitude', 'longitude'], inplace=True)# convert from string to int
+
+from streamlit_keplergl import keplergl_static
+from keplergl import KeplerGl
+
+map_1 = KeplerGl(height=800)
+map_1.add_data(data=df, name="monthly-temperatures-of-india")
+keplergl_static(map_1)
+
+
+
+
+# fileNames = [ "n27_e076_1arc_v3.tif", "n27_e077_1arc_v3.tif" ]
+
+# doc = aw.Document()
+# builder = aw.DocumentBuilder(doc)
+
+# shapes = [builder.insert_image(fileName) for fileName in fileNames]
+
+# # Calculate the maximum width and height and update page settings 
+# # to crop the document to fit the size of the pictures.
+# pageSetup = builder.page_setup
+# pageSetup.page_width = max(shape.width for shape in shapes)
+# pageSetup.page_height = sum(shape.height for shape in shapes)
+# pageSetup.top_margin = 0;
+# pageSetup.left_margin = 0;
+# pageSetup.bottom_margin = 0;
+# pageSetup.right_margin = 0;
+
+# doc.save("Output.jpg");
 
 
 
@@ -161,6 +194,8 @@ from keplergl import KeplerGl
 map_1 = KeplerGl(height=800)
 map_1.add_data(data=df, name="energy-map-of-india")
 keplergl_static(map_1)
+
+
 
 st.subheader("Solar Station Locations in India")
 
