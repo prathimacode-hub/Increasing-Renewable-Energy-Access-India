@@ -28,8 +28,8 @@ from spacy import displacy
 from spacy_streamlit import visualize_ner
 from folium.plugins import MarkerCluster
 
-# import streamlit.components.v1 as components
-# import os
+import streamlit.components.v1 as components
+import os
 # from pylocator.positionstackfuns import latlonpositionstack
 
 #from turfpy.measurement import bbox
