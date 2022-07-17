@@ -32,9 +32,9 @@ from branca.element import Figure
 from geopy.geocoders import Nominatim
 import aspose.words as aw
 
-import streamlit.components.v1 as components
-import os
-from pylocator.positionstackfuns import latlonpositionstack
+# import streamlit.components.v1 as components
+# import os
+# from pylocator.positionstackfuns import latlonpositionstack
 
 #from turfpy.measurement import bbox
 #from functools import reduce
