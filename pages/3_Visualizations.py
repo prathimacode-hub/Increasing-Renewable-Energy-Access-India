@@ -20,6 +20,19 @@ import plotly.offline as pyo
 import requests
 import seaborn as sns
 
+from folium.features import DivIcon
+from googletrans import Translator
+from PIL import Image
+from shapely.geometry import Point, LineString
+from spacy import displacy
+from spacy_streamlit import visualize_ner
+from streamlit_folium import folium_static
+from folium.plugins import MarkerCluster
+
+from branca.element import Figure
+from streamlit_folium import folium_static
+from geopy.geocoders import Nominatim
+
 # from folium.features import DivIcon
 # from googletrans import Translator
 # from PIL import Image
