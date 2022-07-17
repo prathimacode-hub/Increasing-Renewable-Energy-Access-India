@@ -20,16 +20,16 @@ import plotly.offline as pyo
 import requests
 import seaborn as sns
 
-from folium.features import DivIcon
-from googletrans import Translator
-from PIL import Image
-from shapely.geometry import Point, LineString
-from spacy import displacy
-from spacy_streamlit import visualize_ner
-from folium.plugins import MarkerCluster
+# from folium.features import DivIcon
+# from googletrans import Translator
+# from PIL import Image
+# from shapely.geometry import Point, LineString
+# from spacy import displacy
+# from spacy_streamlit import visualize_ner
+# from folium.plugins import MarkerCluster
 
-import streamlit.components.v1 as components
-import os
+# import streamlit.components.v1 as components
+# import os
 # from pylocator.positionstackfuns import latlonpositionstack
 
 #from turfpy.measurement import bbox
@@ -40,7 +40,6 @@ PAGE_TITLE = "Visualizations"
 st.sidebar.header("Visualizations")
 
 st.subheader("Mapping Of Global Horizontal Irradiance Locations")
-
 fig2=Figure(width=550,height=350)
 
 m2=folium.Map(location=[20.0504188,64.4139099], zoom_start=3)
