@@ -28,10 +28,6 @@ from spacy import displacy
 from spacy_streamlit import visualize_ner
 from folium.plugins import MarkerCluster
 
-from branca.element import Figure
-from geopy.geocoders import Nominatim
-import aspose.words as aw
-
 # import streamlit.components.v1 as components
 # import os
 # from pylocator.positionstackfuns import latlonpositionstack
