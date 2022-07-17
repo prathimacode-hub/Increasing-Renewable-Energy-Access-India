@@ -43,7 +43,7 @@ st.subheader("Mapping Of Global Horizontal Irradiance Locations")
 
 fig2=Figure(width=550,height=350)
 
-m2=folium.Map(location=[20.0504188, 64.4139099], zoom_start=3)
+m2=folium.Map(location=[20.0504188,64.4139099], zoom_start=3)
 fig2.add_child(m2)
 folium.TileLayer('Stamen Terrain').add_to(m2)
 folium.TileLayer('Stamen Toner').add_to(m2)
