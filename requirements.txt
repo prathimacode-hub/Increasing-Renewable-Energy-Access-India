@@ -23,7 +23,7 @@ googletrans==3.0.0
 spacy==3.2
 spacy-streamlit==1.0.2
 aspose-words==22.6.0
-pylocator==1.0b0.dev0
+#pylocator==1.0b0.dev0
 
 #pylocator==0.30
 #psycopg2==2.7.6
